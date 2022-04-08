@@ -1,0 +1,579 @@
+<html lang="es_CO" class=""><head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <meta name="google" content="notranslate">
+
+    <meta property="og:image" content="/wcm/connect/b8e4c3f2-36a9-497d-a125-ac04f83b0bf8/LogoBancolombia.png?MOD=AJPERES">
+    <!-- rel=dynamic-content indicates an element that is replaced with the contents produced by the specified href. 
+	 dyn-cs:* URIs are resolved using the values within the 'wp_dynamicContentSpots_85' theme module. -->
+
+    <base href="https://www.bancolombia.com/personas/creditos/vivienda/simulador-credito-vivienda/!ut/p/z1/jc7BDsIgDAbgR6IgODlqojA1FtSxrRfDaSHR6cH4_E7jRY3E3pp8_98yYg2jPt5SF6_p3MfjsLc0PqC1xkgDDkM1A6-E4k5wDgisfgL4MVNg9E8-AyhfXzN6PwH79dBgHXIsJmAl_wSImwfQYbtaGGGD_AKjQoH3AFrMd6VeqhfIfHE5VQ2ksrsDiSb8Yw!!/">
+<title>Simulador de crédito hipotecario Bancolombia</title>
+
+<meta content="Simula la cuota que pagarías según el tipo de financiación de vivienda que elijas: Crédito Hipotecario, Leasing Habitacional o Inmobiliario." name="description"><meta content="Simula la cuota que pagarías según el tipo de financiación de vivienda que elijas: Crédito Hipotecario, Leasing Habitacional o Inmobiliario." property="og:description"><meta content="index, follow" name="robots">
+<link id="com.ibm.lotus.NavStateUrl" rel="alternate" href="/personas/creditos/vivienda/simulador-credito-vivienda/!ut/p/z1/jc7BDsIgDAbgR6IgODlqojA1FtSxrRfDaSHR6cH4_E7jRY3E3pp8_98yYg2jPt5SF6_p3MfjsLc0PqC1xkgDDkM1A6-E4k5wDgisfgL4MVNg9E8-AyhfXzN6PwH79dBgHXIsJmAl_wSImwfQYbtaGGGD_AKjQoH3AFrMd6VeqhfIfHE5VQ2ksrsDiSb8Yw!!/dz/d5/L2dJQSEvUUt3QS80TmxFL1o2X09ISEdHNEcwUE9WVUIwUTUyNTFQMjExME8w/">
+
+
+<link href="/contenthandler/!ut/p/digest!mMmUFmuBz31MUmS67H9ehA/dav/fs-type1/themes/PersonasTheme/images/favicon.ico" rel="shortcut icon" type="image/x-icon">
+
+<link rel="alternate" href="https://www.bancolombia.com/personas/creditos/vivienda/simulador-credito-vivienda" hreflang="es-CO">
+
+	        <link rel="canonical" href="https://www.bancolombia.com/personas/creditos/vivienda/simulador-credito-vivienda">
+	    
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@Bancolombia">
+<meta name="twitter:creator" content="@Bancolombia">
+
+
+<meta property="og:title" content="Simulador de crédito hipotecario Bancolombia">
+<meta property="og:site_name" content="Bancolombia">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://www.bancolombia.com/personas/creditos/vivienda/simulador-credito-vivienda">
+<meta property="og.locale" content="es_CO">
+
+<script type="text/javascript" async="" src="https://www.gstatic.com/recaptcha/releases/Y-cOIEkAqcfDdup_qnnmkxIC/recaptcha__es_419.js" crossorigin="anonymous" integrity="sha384-59web8n1i0Cuav13iwRdsj0RQkORwkUBbvHvxWI9EeI7n53Hvm+shD+NoMV2qD6e"></script><script src="https://cdn.dynamicyield.com/scripts/1.103.0/dy-coll-nojq-min.js" type="text/javascript" async="true"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script async="" src="https://scatec.io/t/app.js?id=8bd5285d-42d2-4028-92b6-f7e9538e2984"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-MVS477M&amp;l=dataLayer"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-PS6GSZT&amp;l=dataLayer"></script><script type="text/javascript" async="" src="https://snap.licdn.com/li.lms-analytics/insight.min.js"></script><script src="https://connect.facebook.net/signals/config/1057072597705880?v=2.9.57&amp;r=stable" async=""></script><script src="https://connect.facebook.net/signals/plugins/identity.js?v=2.9.57" async=""></script><script type="text/javascript" async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="https://static.ads-twitter.com/uwt.js"></script><script gtm="GTM-W95WRK" type="text/javascript" async="" src="https://www.googleoptimize.com/optimize.js?id=GTM-TFW9R4P"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-G4MKJHMZRE&amp;l=dataLayer&amp;cx=c"></script><script type="text/javascript" async="" src="https://cdn.segment.com/analytics.js/v1/MmYCMcrbDTU5TR1vBlh63GxjXxsR06bA/analytics.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-W95WRK"></script><script type="text/javascript" src="/personas/ruxitagentjs_ICA27Vfgjqrux_10237220328075400.js" data-dtconfig="app=a45c5ecd168834f6|rcdec=1209600000|featureHash=ICA27Vfgjqrux|vcv=2|rdnt=1|uxrgce=1|bp=3|srmcrv=10|cuc=ok0ooszr|mel=100000|dpvc=1|ssv=4|lastModification=1649337253806|dtVersion=10237220328075400|srmcrl=1|tp=500,50,0,1|uxdcw=1500|agentUri=/personas/ruxitagentjs_ICA27Vfgjqrux_10237220328075400.js|reportUrl=/personas/rb_bf58324jks|rid=RID_-1348790021|rpid=-1418577740|domain=bancolombia.com"></script><link rel="preconnect" href="//cdn.dynamicyield.com">
+    <link rel="preconnect" href="//st.dynamicyield.com">
+    <link rel="preconnect" href="//rcom.dynamicyield.com">
+    <link rel="dns-prefetch" href="//cdn.dynamicyield.com">
+    <link rel="dns-prefetch" href="//st.dynamicyield.com">
+    <link rel="dns-prefetch" href="//rcom.dynamicyield.com">
+
+    <!-- rendering is delegated to the specified href for each locale -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.9-1/crypto-js.min.js" integrity="sha512-Zl1k/bs5R0zzwAw+kxzMh4HjpC2Y2fy8Qu8xoUUA4mXTYtgq6oWtLUUMSRiaJZ/hH0hwE7locgWLozvskZrnvw==" crossorigin="anonymous"></script>
+    <!-- Anti-flicker snippet (recommended)  -->
+    <style>
+        .async-hide {
+            opacity: 0 !important
+        }
+    </style>
+    <script>
+        (function(a, s, y, n, c, h, i, d, e) {
+            s.className += ' ' + y;
+            h.start = 1 * new Date;
+            h.end = i = function() {
+                s.className = s.className.replace(RegExp(' ?' + y), '')
+            };
+            (a[n] = a[n] || []).hide = h;
+            setTimeout(function() {
+                i();
+                h.end = null
+            }, c);
+            h.timeout = c;
+        })(window, document.documentElement, 'async-hide', 'dataLayer', 4000, {
+            'GTM-W95WRK': true
+        });
+    </script>
+    <script>
+        (function(w, d, s, l, i) {
+            w[l] = w[l] || [];
+            w[l].push({
+                'gtm.start': new Date().getTime(),
+                event: 'gtm.js'
+            });
+            var f = d.getElementsByTagName(s)[0],
+                j = d.createElement(s),
+                dl = l != 'dataLayer' ? '&l=' + l : '';
+            j.async = true;
+            j.src = '//www.googletagmanager.com/gtm.js?id=' + i + dl;
+            f.parentNode.insertBefore(j, f);
+        })(window, document, 'script', 'dataLayer', 'GTM-W95WRK');
+    </script>
+    
+		<script type="text/javascript" src="//cdn.dynamicyield.com/api/8775742/api_dynamic.js"></script>
+		<script type="text/javascript" src="//cdn.dynamicyield.com/api/8775742/api_static.js"></script><style id="dy-common-style" class="dy-common-style" type="text/css">.dy-wysiwyg{line-height:normal;direction:ltr;align-text:left;margin:0;padding:0;background-color:transparent}.dy-wysiwyg a{text-decoration:none;color:#00e}.dynotifyjs-wrapper .dy-lb-close{z-index:1;top:-8px;right:-9px;border:none;transition:opacity .15s;opacity:.7;background-size:14px;background-repeat:no-repeat;background-position:2px;width:18px;height:18px}.dynotifyjs-wrapper .dy-lb-close:hover{opacity:1}.dynotifyjs-corner{position:fixed;margin:0;z-index:1050}.dynotifyjs-corner .dynotifyjs-container,.dynotifyjs-corner .dynotifyjs-wrapper{position:relative;display:block;height:inherit;width:inherit;margin:11px 8px}.dynotifyjs-wrapper{z-index:1;position:absolute;display:inline-block;height:0;width:0}.dynotifyjs-container{display:none;z-index:1;position:absolute}[data-dynotify-html],[data-dynotify-text]{position:relative}.dynotifyjs-arrow{position:absolute;z-index:2;width:0;height:0}.dy-lb-close{position:absolute;top:-12px;right:-11px;cursor:pointer;color:#fff;border:1px solid #918686;border-radius:30px;display:inline-block;height:22px;width:22px;background:#575757 url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IiB2aWV3Qm94PSIwIDAgNTUgNTUiIGVuYWJsZS1iYWNrZ3JvdW5kPSJuZXcgMCAwIDU1IDU1IiB4bWw6c3BhY2U9InByZXNlcnZlIj48ZyBpZD0iY2xvc2UiPjxwb2x5Z29uIGZpbGw9IiNGRkZGRkYiIHBvaW50cz0iNDMuNSwxNC43IDQwLjMsMTEuNSAyNy41LDI0LjMgMTQuNywxMS41IDExLjUsMTQuNyAyNC4zLDI3LjUgMTEuNSw0MC4zIDE0LjcsNDMuNSAyNy41LDMwLjcgNDAuMyw0My41IDQzLjUsNDAuMyAzMC43LDI3LjUgIi8+PC9nPjwvc3ZnPg==);background-size:22px}.dy-full-width-notifications-close{top:5px;right:5px;z-index:1;border:none;transition:opacity .15s;-webkit-transition:opacity .15s;opacity:.7;width:18px;height:18px;position:absolute;cursor:pointer;color:#fff;border-radius:30px;display:inline-block;background:#575757 url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IiB2aWV3Qm94PSIwIDAgNTUgNTUiIGVuYWJsZS1iYWNrZ3JvdW5kPSJuZXcgMCAwIDU1IDU1IiB4bWw6c3BhY2U9InByZXNlcnZlIj48ZyBpZD0iY2xvc2UiPjxwb2x5Z29uIGZpbGw9IiNGRkZGRkYiIHBvaW50cz0iNDMuNSwxNC43IDQwLjMsMTEuNSAyNy41LDI0LjMgMTQuNywxMS41IDExLjUsMTQuNyAyNC4zLDI3LjUgMTEuNSw0MC4zIDE0LjcsNDMuNSAyNy41LDMwLjcgNDAuMyw0My41IDQzLjUsNDAuMyAzMC43LDI3LjUgIi8+PC9nPjwvc3ZnPg==);background-size:14px;background-repeat:no-repeat;background-position:2px}.dy-full-width-notifications-close:hover{opacity:1}.dy_full_width_notifications_container{position:fixed;left:0;right:0;z-index:1040}.dy_full_width_notifications_container.dy_bottom_notification{bottom:0}.dy_full_width_notifications_container.dy_top_notification{top:0}.dy_full_width_notifications_container .dy_full_width_notification_instance{opacity:0;-webkit-transition:opacity .15s;transition:opacity .15s;position:relative}.dy_full_width_notifications_container .dy_full_width_notification_instance.dy_notification_instance_active{opacity:1}.dy_full_width_notifications_container .dy_full_width_notification_instance.dy_notification_from_bottom{-webkit-animation:dy_appear_from_bottom .25s;animation:dy_appear_from_bottom .25s}.dy_full_width_notifications_container .dy_full_width_notification_instance.dy_notification_from_top{-webkit-animation:dy_appear_from_top .25s;animation:dy_appear_from_top .25s}.dy_full_width_notifications_container .dy_full_width_notification_instance.dy_notification_instance_will_exit_top{-webkit-animation:dy_exit_top .25s;animation:dy_exit_top .25s;animation-fill-mode:forwards;-webkit-animation-fill-mode:forwards}.dy_full_width_notifications_container .dy_full_width_notification_instance.dy_notification_instance_will_exit_bottom{-webkit-animation:dy_exit_bottom .25s;animation:dy_exit_bottom .25s;animation-fill-mode:forwards;-webkit-animation-fill-mode:forwards}@-webkit-keyframes dy_appear_from_bottom{0%{-webkit-transform:translateY(100%);transform:translateY(100%)}100%{-webkit-transform:translateY(0);transform:translateY(0)}}@keyframes dy_appear_from_bottom{0%{-webkit-transform:translateY(100%);transform:translateY(100%)}100%{-webkit-transform:translateY(0);transform:translateY(0)}}@-webkit-keyframes dy_appear_from_top{0%{-webkit-transform:translateY(-100%);transform:translateY(-100%)}100%{-webkit-transform:translateY(0);transform:translateY(0)}}@keyframes dy_appear_from_top{0%{-webkit-transform:translateY(-100%);transform:translateY(-100%)}100%{-webkit-transform:translateY(0);transform:translateY(0)}}@-webkit-keyframes dy_exit_top{100%{-webkit-transform:translateY(-100%);transform:translateY(-100%)}}@keyframes dy_exit_top{100%{-webkit-transform:translateY(-100%);transform:translateY(-100%)}}@-webkit-keyframes dy_exit_bottom{100%{-webkit-transform:translateY(100%);transform:translateY(100%)}}@keyframes dy_exit_bottom{100%{-webkit-transform:translateY(100%);transform:translateY(100%)}}.dy-modal-container{position:fixed;z-index:99999;top:0;left:0;bottom:0;right:0;width:100%;height:100vh;display:table;-webkit-transition:opacity .2s ease;transition:opacity .2s ease}.dy-modal-container .dy-modal-backdrop{position:absolute;top:0;left:0;right:0;bottom:0;width:100%;height:100%;opacity:0;-webkit-transition:opacity .2s;transition:opacity .2s;background-color:#000}.dy-modal-container .dy-modal-wrapper{position:relative;z-index:1;display:table-cell;vertical-align:middle;text-align:center;width:100%}.dy-modal-container .dy-modal-wrapper.dy-modal-bottom{padding-bottom:20px;vertical-align:bottom}.dy-modal-container .dy-modal-wrapper.dy-modal-top{padding-top:20px;vertical-align:top}.dy-modal-container .dy-modal-wrapper .dy-modal-contents{position:relative;display:inline-block;-webkit-animation:dy-modal-enter .25s;animation:dy-modal-enter .25s;visibility:hidden}.dy-modal-container .dy-modal-wrapper .dy-modal-contents .dy-lb-close{z-index:1;top:-9px;right:-9px;border:none;opacity:.7;transition:opacity .15s;width:18px;height:18px;cursor:pointer;position:absolute;border-radius:30px;color:#fff;background:#575757 url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IiB2aWV3Qm94PSIwIDAgNTUgNTUiIGVuYWJsZS1iYWNrZ3JvdW5kPSJuZXcgMCAwIDU1IDU1IiB4bWw6c3BhY2U9InByZXNlcnZlIj48ZyBpZD0iY2xvc2UiPjxwb2x5Z29uIGZpbGw9IiNGRkZGRkYiIHBvaW50cz0iNDMuNSwxNC43IDQwLjMsMTEuNSAyNy41LDI0LjMgMTQuNywxMS41IDExLjUsMTQuNyAyNC4zLDI3LjUgMTEuNSw0MC4zIDE0LjcsNDMuNSAyNy41LDMwLjcgNDAuMyw0My41IDQzLjUsNDAuMyAzMC43LDI3LjUgIi8+PC9nPjwvc3ZnPg==) no-repeat 2px;background-size:14px}.dy-modal-container .dy-modal-wrapper .dy-modal-contents .dy-lb-close:hover{opacity:1}@-webkit-keyframes dy-modal-enter{0%{opacity:0;-webkit-transform:scale(.5);transform:scale(.5)}50%{-webkit-transform:scale(1.05);transform:scale(1.05)}85%{-webkit-transform:scale(1.1);transform:scale(1.1)}100%{opacity:1;-webkit-transform:scale(1);transform:scale(1)}}</style><script type="text/javascript" async="true" src="//st.dynamicyield.com/st?sec=8775742&amp;inHead=true&amp;id=1567252886722642684&amp;jsession=b65582e466c73b307bd3e62aedd0283d&amp;ref=https%3A%2F%2Fwww.bancolombia.com%2F&amp;scriptVersion=1.103.0&amp;dyid_server=1567252886722642684"></script>
+	
+<script type="text/javascript">
+	function readCookie(name) { return decodeURIComponent(document.cookie.replace(new RegExp("(?:(?:^|.*;)\\s*" + name.replace(/[\-\.\+\*]/g, "\$&") + "\\s*\\=\\s*([^;]*).*$)|^.*$"), "$1")) || null;}
+	function _idyServer() {
+        Date.prototype.addYears = function(n) {
+            var now = new Date();
+            return new Date(now.setFullYear(now.getFullYear() + n));
+        };	    
+	    let readId = readCookie('_dyid');
+	    if (readId !== null) {
+	        let nameNewCookie,dataCookie,d,expiresdate
+	        nameNewCookie = '_dyid_server'
+	        dataCookie = encodeURIComponent(readId)
+	        d = new Date().addYears(1);
+	        expiresdate = d
+	        document.cookie = nameNewCookie+"=" + dataCookie + "; expires=" + expiresdate.toUTCString()
+	    }
+	}
+	_idyServer()
+</script><script async="" src="https://static.hotjar.com/c/hotjar-373418.js?sv=6"></script><script async="" src="https://script.hotjar.com/modules.9beafb9ca96c2f868fe2.js" charset="utf-8"></script><style type="text/css">iframe#_hjRemoteVarsFrame {display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;}</style><style>.trazovivienda[_ngcontent-wac-c0]{text-align:center;position:relative}.trazovivienda[_ngcontent-wac-c0]   img[_ngcontent-wac-c0]{width:100%;position:absolute;left:47%;margin-left:-50%;z-index:0}</style><style>@charset "UTF-8";.header-simulador[_ngcontent-wac-c1]{width:100%}.header-simulador[_ngcontent-wac-c1]   nav[_ngcontent-wac-c1]{background:#fff;display:flex;justify-content:space-between;align-items:flex-end;font-family:OpenSans,sans-serif;padding:21px 54px 31px;color:#292929;font-size:16px;font-weight:600;letter-spacing:-.3px;line-height:24px;width:100%}.header-simulador[_ngcontent-wac-c1]   nav[_ngcontent-wac-c1]   figure[_ngcontent-wac-c1]{margin:0}.header-simulador[_ngcontent-wac-c1]   nav[_ngcontent-wac-c1]   .header-simulador_logo[_ngcontent-wac-c1]   .icon-logos-Bancolombia-primario-positivo[_ngcontent-wac-c1]:before{font-size:60px}@media (max-width:426px){.header-simulador[_ngcontent-wac-c1]   nav[_ngcontent-wac-c1]   .header-simulador_logo[_ngcontent-wac-c1]   .icon-logos-Bancolombia-primario-positivo[_ngcontent-wac-c1]:before{font-size:40px}}.header-simulador_logo[_ngcontent-wac-c1]   img[_ngcontent-wac-c1]{max-width:190px}@media (max-width:767px){.header-simulador[_ngcontent-wac-c1]   nav[_ngcontent-wac-c1]{padding:28px 50px 18px}.header-simulador_logo[_ngcontent-wac-c1]   img[_ngcontent-wac-c1]{max-width:100px}}.boton-atras-simulador[_ngcontent-wac-c1], .boton-cerrar-simulador[_ngcontent-wac-c1], .boton-salir-simulador[_ngcontent-wac-c1]{cursor:pointer;position:relative}.boton-atras-simulador[_ngcontent-wac-c1]:after, .boton-cerrar-simulador[_ngcontent-wac-c1]:after, .boton-salir-simulador[_ngcontent-wac-c1]:after{font-family:Font Icon Regular,sans-serif;content:"";position:absolute;font-weight:400;color:#454648;border-radius:50%;top:-3px;width:33px;height:33px;font-size:20px}.boton-atras-simulador[_ngcontent-wac-c1]:after{font-family:Font Icon Regular,sans-serif;content:"";padding:3px 5px;left:-40px}.boton-salir-simulador[_ngcontent-wac-c1]:after{content:"";padding:4px 7px;right:-40px}.boton-cerrar-simulador[_ngcontent-wac-c1]:after{content:"";padding:4px 6px;right:-40px}</style><style>.background-inferior[_ngcontent-wac-c2]{background-color:#f4f4f4!important}.credit-type-container[_ngcontent-wac-c2]{padding:16px}.credit-type-container[_ngcontent-wac-c2]   .title[_ngcontent-wac-c2]{color:#292929;font-family:CIBFontSans-Bold,sans-serif;font-size:32px;font-weight:700;letter-spacing:-.6px;line-height:32px;padding-left:12px;margin:0 auto 16px;max-width:608px}.credit-type-container[_ngcontent-wac-c2]   .subtitle[_ngcontent-wac-c2]{color:#292929;padding:0 11px 0 12px;max-width:608px;margin:0 auto 17px}.credit-type-container[_ngcontent-wac-c2]   .options-container[_ngcontent-wac-c2]   .card[_ngcontent-wac-c2]{position:relative;display:inline-flex;align-items:center;width:100%;flex-direction:row;border-radius:0;box-shadow:0 2px 4px 0 rgba(0,0,0,.1),0 0 5px 0 rgba(0,0,0,.1);margin:11px 0;padding:0;border:2}.credit-type-container[_ngcontent-wac-c2]   .options-container[_ngcontent-wac-c2]   .card.icon-arrow2-right[_ngcontent-wac-c2]:before{color:#2c2a29;line-height:20px;font-size:20px;right:0;position:absolute}.credit-type-container[_ngcontent-wac-c2]   .options-container[_ngcontent-wac-c2]   .card[_ngcontent-wac-c2]:hover{cursor:pointer}.credit-type-container[_ngcontent-wac-c2]   .options-container[_ngcontent-wac-c2]   .card[_ngcontent-wac-c2]   img[_ngcontent-wac-c2]{padding-right:11px;max-width:41px}.credit-type-container[_ngcontent-wac-c2]   .options-container[_ngcontent-wac-c2]   .card[_ngcontent-wac-c2]   h5[_ngcontent-wac-c2], .credit-type-container[_ngcontent-wac-c2]   .options-container[_ngcontent-wac-c2]   .card[_ngcontent-wac-c2]   p[_ngcontent-wac-c2]{margin-bottom:0;color:#292929}.credit-type-container[_ngcontent-wac-c2]   .options-container[_ngcontent-wac-c2]   .card[_ngcontent-wac-c2]   h5[_ngcontent-wac-c2]{font-family:CIBFontSans-Bold,sans-serif;font-weight:400}.credit-type-container[_ngcontent-wac-c2]   .options-container[_ngcontent-wac-c2]   .card[_ngcontent-wac-c2]   span[_ngcontent-wac-c2]{font-size:35px;padding-left:11px;padding-right:11px}.credit-type-container[_ngcontent-wac-c2]   .options-container[_ngcontent-wac-c2]   .card[_ngcontent-wac-c2]   .color-n1[_ngcontent-wac-c2]{background-color:#59cbe8}.credit-type-container[_ngcontent-wac-c2]   .options-container[_ngcontent-wac-c2]   .card[_ngcontent-wac-c2]   .color-n2[_ngcontent-wac-c2]{background-color:#00c389}.credit-type-container[_ngcontent-wac-c2]   .options-container[_ngcontent-wac-c2]   .card[_ngcontent-wac-c2]   .icon-bco[_ngcontent-wac-c2]{line-height:2}@media (max-width:426px){.credit-type-container[_ngcontent-wac-c2]   .options-container[_ngcontent-wac-c2]   .card[_ngcontent-wac-c2]   .icon-bco[_ngcontent-wac-c2]{line-height:3}}.credit-type-container[_ngcontent-wac-c2]   .options-container[_ngcontent-wac-c2]   .card[_ngcontent-wac-c2]   .options-texto[_ngcontent-wac-c2]{padding:11px}.credit-type-container[_ngcontent-wac-c2]   .info-card-container[_ngcontent-wac-c2]   .info-content[_ngcontent-wac-c2]{height:57px;display:inline-flex;align-items:center;margin:11px 0 24px;padding:21px 12px 21px 16px;color:#292929;border-radius:0;background-color:#fff}.credit-type-container[_ngcontent-wac-c2]   .info-card-container[_ngcontent-wac-c2]   .info-content[_ngcontent-wac-c2]   img[_ngcontent-wac-c2]{margin-right:14px;max-width:35px;min-width:35px}.credit-type-container[_ngcontent-wac-c2]   .info-card-container[_ngcontent-wac-c2]   .info-content[_ngcontent-wac-c2]   span[_ngcontent-wac-c2]{color:#2c2a29;font-size:30px;margin-right:15px}.credit-type-container[_ngcontent-wac-c2]   .video-tips[_ngcontent-wac-c2]{width:100%;max-width:428px;min-height:200px;max-height:200px;margin:0 auto 5px;position:relative;box-shadow:0 3px 12px 0 rgba(0,0,0,.12),0 9px 8px 0 rgba(0,0,0,.11);overflow:hidden;display:flex;border-radius:5px}.credit-type-container[_ngcontent-wac-c2]   .video-tips[_ngcontent-wac-c2]   img[_ngcontent-wac-c2]{border-radius:5px;min-width:100%;min-height:100%}.credit-type-container[_ngcontent-wac-c2]   .video-tips[_ngcontent-wac-c2]   .video-link[_ngcontent-wac-c2]{position:absolute;color:#fff;font-family:CIBFontSans-Bold,sans-serif;display:flex;align-items:center;top:0;bottom:0;left:23px;max-width:283px}.credit-type-container[_ngcontent-wac-c2]   .video-tips[_ngcontent-wac-c2]   .video-link[_ngcontent-wac-c2]   .icon-play[_ngcontent-wac-c2]{font-size:33px;margin-right:13px;height:52px}.credit-type-container[_ngcontent-wac-c2]   .video-tips[_ngcontent-wac-c2]   .video-link[_ngcontent-wac-c2]   h4[_ngcontent-wac-c2]{margin-bottom:0}@media (min-width:768px){.credit-type-container[_ngcontent-wac-c2]{padding:35px}.credit-type-container[_ngcontent-wac-c2]   .header-content[_ngcontent-wac-c2]{padding:0 50px}.credit-type-container[_ngcontent-wac-c2]   .header-content[_ngcontent-wac-c2]   .subtitle[_ngcontent-wac-c2], .credit-type-container[_ngcontent-wac-c2]   .header-content[_ngcontent-wac-c2]   .title[_ngcontent-wac-c2]{padding:0}.credit-type-container[_ngcontent-wac-c2]   .title[_ngcontent-wac-c2]{font-size:40px;line-height:40px;text-align:center;max-width:958px}.credit-type-container[_ngcontent-wac-c2]   .subtitle[_ngcontent-wac-c2]{text-align:center;max-width:620px}.credit-type-container[_ngcontent-wac-c2]   .options-container[_ngcontent-wac-c2]{display:flex;justify-content:center;flex-direction:column;align-items:center}.credit-type-container[_ngcontent-wac-c2]   .options-container[_ngcontent-wac-c2]   .card[_ngcontent-wac-c2]{max-width:451px;margin:11px 16px}.credit-type-container[_ngcontent-wac-c2]   .info-card-container[_ngcontent-wac-c2]{margin:0 182px}.credit-type-container[_ngcontent-wac-c2]   .video-tips[_ngcontent-wac-c2]{max-height:248px}}@media (min-width:992px){.credit-type-container[_ngcontent-wac-c2]   .info-card-container[_ngcontent-wac-c2]{margin:0;text-align:center}}@media (min-width:1200px){.credit-type-container[_ngcontent-wac-c2]   .options-container[_ngcontent-wac-c2]{flex-direction:row}}</style><style>@charset "UTF-8";  .credit-form-container.result-form .form-content{padding-top:16px;padding-bottom:36px}  .credit-form-container.result-form .footer-boton{margin-top:10px}@media (min-width:768px){  .credit-form-container.result-form{padding-top:23px;padding-bottom:0}}  .credit-form-container.result-form-desktop{padding:0}  .credit-form-container.result-form-desktop .form-content-tag{display:flex;align-items:center;margin-top:13px;justify-content:space-around}  .credit-form-container.result-form-desktop .form-content{padding:0;max-width:100%}  .credit-form-container.result-form-desktop .form-content .visible-title .mat-form-field-label-wrapper{overflow:visible}  .credit-form-container.result-form-desktop .form-content .valueHousing{flex:0 0 200px;max-width:200px}  .credit-form-container.result-form-desktop .form-content .money-need{flex:0 0 192px;max-width:192px;margin:0}  .credit-form-container.result-form-desktop .form-content .money-need h6{font-size:14px;letter-spacing:-.2px;line-height:18px;color:#2c2a29;font-family:OpenSans,sans-serif;padding:0}  .credit-form-container.result-form-desktop .form-content .money-need .mat-bc-form-field{margin:0}  .credit-form-container.result-form-desktop .form-content .money-need .percentage-value{padding:0;flex:0 0 50px;max-width:50px;min-width:50px}  .credit-form-container.result-form-desktop .form-content .money-need .percentage-value .mat-form-field-infix{padding-left:0}  .credit-form-container.result-form-desktop .form-content .money-need .igual-input{min-width:5%;flex:0 0 5%;margin:0 10px}  .credit-form-container.result-form-desktop .form-content .money-need .value-need{flex:0 0 108px;max-width:108px}  .credit-form-container.result-form-desktop .form-content .money-need .value-need .mat-input-element{white-space:nowrap;text-overflow:ellipsis;overflow:hidden}  .credit-form-container.result-form-desktop .form-content .termYears{flex:0 0 108px;max-width:108px}  .credit-form-container.result-form-desktop .form-content .birthDate{flex:0 0 140px;max-width:140px}  .credit-form-container.result-form-desktop .form-content .footer-boton{margin-bottom:20px}  .credit-form-container.result-form-desktop .form-content .footer-boton button{width:170px;height:38px}  .credit-form-container .form-content{max-width:575px;margin:auto;padding-top:32px;padding-bottom:46px}  .credit-form-container .form-content .mat-bc-form-field.big-form-field{margin-bottom:70px}  .credit-form-container .form-content .mat-bc-form-field.big-form-field .empty{color:#2c2a29}  .credit-form-container .form-content .mat-bc-form-field.medium-margin{margin-bottom:20px}  .credit-form-container .form-content .btn-icon-info{position:relative}  .credit-form-container .form-content .btn-icon-info:before{position:absolute;left:2px;top:0;color:#2c2a29;font-size:17px;font-family:Font Icon Regular,sans-serif;content:"";cursor:pointer}  .credit-form-container .form-content .letter-spacing-hint{letter-spacing:-.17px}  .credit-form-container .form-content .link-comparador{padding:15px 30px 30px 35px}  .credit-form-container .form-content .link-comparador>a{font-family:OpenSans;font-style:normal;font-weight:600;font-size:16px;line-height:24px;letter-spacing:-.3px;-webkit-text-decoration-line:underline;text-decoration-line:underline;color:#292929;position:relative}  .credit-form-container .form-content .link-comparador .icon-tamano{font-size:20px}  .credit-form-container .form-content .money-need{padding:0!important;margin:0}  .credit-form-container .form-content .money-need h6{margin-bottom:-24px;color:#292929;font-weight:400}  .credit-form-container .form-content .money-need .mat-bc-form-field{margin-bottom:0}  .credit-form-container .form-content .money-need .percentage-value{min-width:114px;width:114px;flex:0 0 114px}  .credit-form-container .form-content .money-need .value-need{flex:0 0 62%;max-width:62%}  .credit-form-container .form-content .money-need .hint{margin-top:-12px;margin-bottom:40px;color:#2c2a29;max-width:333px;white-space:nowrap}  .credit-form-container .form-content .money-need .hint.hint-form-desktop{margin-bottom:0;padding:0;margin-top:-19px}  .credit-form-container .form-content .money-need .hint .mat-error{color:#fa5e5b;font-weight:700;letter-spacing:-.2px}@media (min-width:768px){  .credit-form-container{padding-top:53px;padding-bottom:64px}}@media (max-width:767px){  .credit-form-container .mat-bc-form-field.medium-margin{margin-bottom:70px!important}  .credit-form-container .link-comparador{display:none}  .credit-form-container .money-need .hint{white-space:normal!important}}  .mat-bc-form-field-label .mat-form-field-label{white-space:normal;margin-top:-10px;line-height:17px}</style><style>.mat-form-field{display:inline-block;position:relative;text-align:left}[dir=rtl] .mat-form-field{text-align:right}.mat-form-field-wrapper{position:relative}.mat-form-field-flex{display:inline-flex;align-items:baseline;box-sizing:border-box;width:100%}.mat-form-field-prefix,.mat-form-field-suffix{white-space:nowrap;flex:none;position:relative}.mat-form-field-infix{display:block;position:relative;flex:auto;min-width:0;width:180px}.cdk-high-contrast-active .mat-form-field-infix{border-image:linear-gradient(transparent, transparent)}.mat-form-field-label-wrapper{position:absolute;left:0;box-sizing:content-box;width:100%;height:100%;overflow:hidden;pointer-events:none}[dir=rtl] .mat-form-field-label-wrapper{left:auto;right:0}.mat-form-field-label{position:absolute;left:0;font:inherit;pointer-events:none;width:100%;white-space:nowrap;text-overflow:ellipsis;overflow:hidden;transform-origin:0 0;transition:transform 400ms cubic-bezier(0.25, 0.8, 0.25, 1),color 400ms cubic-bezier(0.25, 0.8, 0.25, 1),width 400ms cubic-bezier(0.25, 0.8, 0.25, 1);display:none}[dir=rtl] .mat-form-field-label{transform-origin:100% 0;left:auto;right:0}.mat-form-field-empty.mat-form-field-label,.mat-form-field-can-float.mat-form-field-should-float .mat-form-field-label{display:block}.mat-form-field-autofill-control:-webkit-autofill+.mat-form-field-label-wrapper .mat-form-field-label{display:none}.mat-form-field-can-float .mat-form-field-autofill-control:-webkit-autofill+.mat-form-field-label-wrapper .mat-form-field-label{display:block;transition:none}.mat-input-server:focus+.mat-form-field-label-wrapper .mat-form-field-label,.mat-input-server[placeholder]:not(:placeholder-shown)+.mat-form-field-label-wrapper .mat-form-field-label{display:none}.mat-form-field-can-float .mat-input-server:focus+.mat-form-field-label-wrapper .mat-form-field-label,.mat-form-field-can-float .mat-input-server[placeholder]:not(:placeholder-shown)+.mat-form-field-label-wrapper .mat-form-field-label{display:block}.mat-form-field-label:not(.mat-form-field-empty){transition:none}.mat-form-field-underline{position:absolute;width:100%;pointer-events:none;transform:scale3d(1, 1.0001, 1)}.mat-form-field-ripple{position:absolute;left:0;width:100%;transform-origin:50%;transform:scaleX(0.5);opacity:0;transition:background-color 300ms cubic-bezier(0.55, 0, 0.55, 0.2)}.mat-form-field.mat-focused .mat-form-field-ripple,.mat-form-field.mat-form-field-invalid .mat-form-field-ripple{opacity:1;transform:scaleX(1);transition:transform 300ms cubic-bezier(0.25, 0.8, 0.25, 1),opacity 100ms cubic-bezier(0.25, 0.8, 0.25, 1),background-color 300ms cubic-bezier(0.25, 0.8, 0.25, 1)}.mat-form-field-subscript-wrapper{position:absolute;box-sizing:border-box;width:100%;overflow:hidden}.mat-form-field-subscript-wrapper .mat-icon,.mat-form-field-label-wrapper .mat-icon{width:1em;height:1em;font-size:inherit;vertical-align:baseline}.mat-form-field-hint-wrapper{display:flex}.mat-form-field-hint-spacer{flex:1 0 1em}.mat-error{display:block}.mat-form-field-control-wrapper{position:relative}.mat-form-field._mat-animation-noopable .mat-form-field-label,.mat-form-field._mat-animation-noopable .mat-form-field-ripple{transition:none}
+</style><style>.mat-form-field-appearance-fill .mat-form-field-flex{border-radius:4px 4px 0 0;padding:.75em .75em 0 .75em}.cdk-high-contrast-active .mat-form-field-appearance-fill .mat-form-field-flex{outline:solid 1px}.mat-form-field-appearance-fill .mat-form-field-underline::before{content:"";display:block;position:absolute;bottom:0;height:1px;width:100%}.mat-form-field-appearance-fill .mat-form-field-ripple{bottom:0;height:2px}.cdk-high-contrast-active .mat-form-field-appearance-fill .mat-form-field-ripple{height:0;border-top:solid 2px}.mat-form-field-appearance-fill:not(.mat-form-field-disabled) .mat-form-field-flex:hover~.mat-form-field-underline .mat-form-field-ripple{opacity:1;transform:none;transition:opacity 600ms cubic-bezier(0.25, 0.8, 0.25, 1)}.mat-form-field-appearance-fill._mat-animation-noopable:not(.mat-form-field-disabled) .mat-form-field-flex:hover~.mat-form-field-underline .mat-form-field-ripple{transition:none}.mat-form-field-appearance-fill .mat-form-field-subscript-wrapper{padding:0 1em}
+</style><style>.mat-input-element{font:inherit;background:transparent;color:currentColor;border:none;outline:none;padding:0;margin:0;width:100%;max-width:100%;vertical-align:bottom;text-align:inherit}.mat-input-element:-moz-ui-invalid{box-shadow:none}.mat-input-element::-ms-clear,.mat-input-element::-ms-reveal{display:none}.mat-input-element,.mat-input-element::-webkit-search-cancel-button,.mat-input-element::-webkit-search-decoration,.mat-input-element::-webkit-search-results-button,.mat-input-element::-webkit-search-results-decoration{-webkit-appearance:none}.mat-input-element::-webkit-contacts-auto-fill-button,.mat-input-element::-webkit-caps-lock-indicator,.mat-input-element::-webkit-credentials-auto-fill-button{visibility:hidden}.mat-input-element[type=date],.mat-input-element[type=datetime],.mat-input-element[type=datetime-local],.mat-input-element[type=month],.mat-input-element[type=week],.mat-input-element[type=time]{line-height:1}.mat-input-element[type=date]::after,.mat-input-element[type=datetime]::after,.mat-input-element[type=datetime-local]::after,.mat-input-element[type=month]::after,.mat-input-element[type=week]::after,.mat-input-element[type=time]::after{content:" ";white-space:pre;width:1px}.mat-input-element::-webkit-inner-spin-button,.mat-input-element::-webkit-calendar-picker-indicator,.mat-input-element::-webkit-clear-button{font-size:.75em}.mat-input-element::placeholder{-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;transition:color 400ms 133.3333333333ms cubic-bezier(0.25, 0.8, 0.25, 1)}.mat-input-element::placeholder:-ms-input-placeholder{-ms-user-select:text}.mat-input-element::-moz-placeholder{-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;transition:color 400ms 133.3333333333ms cubic-bezier(0.25, 0.8, 0.25, 1)}.mat-input-element::-moz-placeholder:-ms-input-placeholder{-ms-user-select:text}.mat-input-element::-webkit-input-placeholder{-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;transition:color 400ms 133.3333333333ms cubic-bezier(0.25, 0.8, 0.25, 1)}.mat-input-element::-webkit-input-placeholder:-ms-input-placeholder{-ms-user-select:text}.mat-input-element:-ms-input-placeholder{-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;transition:color 400ms 133.3333333333ms cubic-bezier(0.25, 0.8, 0.25, 1)}.mat-input-element:-ms-input-placeholder:-ms-input-placeholder{-ms-user-select:text}.mat-form-field-hide-placeholder .mat-input-element::placeholder{color:transparent !important;-webkit-text-fill-color:transparent;transition:none}.mat-form-field-hide-placeholder .mat-input-element::-moz-placeholder{color:transparent !important;-webkit-text-fill-color:transparent;transition:none}.mat-form-field-hide-placeholder .mat-input-element::-webkit-input-placeholder{color:transparent !important;-webkit-text-fill-color:transparent;transition:none}.mat-form-field-hide-placeholder .mat-input-element:-ms-input-placeholder{color:transparent !important;-webkit-text-fill-color:transparent;transition:none}textarea.mat-input-element{resize:vertical;overflow:auto}textarea.mat-input-element.cdk-textarea-autosize{resize:none}textarea.mat-input-element{padding:2px 0;margin:-2px 0}select.mat-input-element{-moz-appearance:none;-webkit-appearance:none;position:relative;background-color:transparent;display:inline-flex;box-sizing:border-box;padding-top:1em;top:-1em;margin-bottom:-1em}select.mat-input-element::-ms-expand{display:none}select.mat-input-element::-moz-focus-inner{border:0}select.mat-input-element:not(:disabled){cursor:pointer}select.mat-input-element::-ms-value{color:inherit;background:none}.mat-focused .cdk-high-contrast-active select.mat-input-element::-ms-value{color:inherit}.mat-form-field-type-mat-native-select .mat-form-field-infix::after{content:"";width:0;height:0;border-left:5px solid transparent;border-right:5px solid transparent;border-top:5px solid;position:absolute;top:50%;right:0;margin-top:-2.5px;pointer-events:none}[dir=rtl] .mat-form-field-type-mat-native-select .mat-form-field-infix::after{right:auto;left:0}.mat-form-field-type-mat-native-select .mat-input-element{padding-right:15px}[dir=rtl] .mat-form-field-type-mat-native-select .mat-input-element{padding-right:0;padding-left:15px}.mat-form-field-type-mat-native-select .mat-form-field-label-wrapper{max-width:calc(100% - 10px)}.mat-form-field-type-mat-native-select.mat-form-field-appearance-outline .mat-form-field-infix::after{margin-top:-5px}.mat-form-field-type-mat-native-select.mat-form-field-appearance-fill .mat-form-field-infix::after{margin-top:-10px}
+</style><style>.mat-form-field-appearance-legacy .mat-form-field-label{transform:perspective(100px);-ms-transform:none}.mat-form-field-appearance-legacy .mat-form-field-prefix .mat-icon,.mat-form-field-appearance-legacy .mat-form-field-suffix .mat-icon{width:1em}.mat-form-field-appearance-legacy .mat-form-field-prefix .mat-icon-button,.mat-form-field-appearance-legacy .mat-form-field-suffix .mat-icon-button{font:inherit;vertical-align:baseline}.mat-form-field-appearance-legacy .mat-form-field-prefix .mat-icon-button .mat-icon,.mat-form-field-appearance-legacy .mat-form-field-suffix .mat-icon-button .mat-icon{font-size:inherit}.mat-form-field-appearance-legacy .mat-form-field-underline{height:1px}.cdk-high-contrast-active .mat-form-field-appearance-legacy .mat-form-field-underline{height:0;border-top:solid 1px}.mat-form-field-appearance-legacy .mat-form-field-ripple{top:0;height:2px;overflow:hidden}.cdk-high-contrast-active .mat-form-field-appearance-legacy .mat-form-field-ripple{height:0;border-top:solid 2px}.mat-form-field-appearance-legacy.mat-form-field-disabled .mat-form-field-underline{background-position:0;background-color:transparent}.cdk-high-contrast-active .mat-form-field-appearance-legacy.mat-form-field-disabled .mat-form-field-underline{border-top-style:dotted;border-top-width:2px}.mat-form-field-appearance-legacy.mat-form-field-invalid:not(.mat-focused) .mat-form-field-ripple{height:1px}
+</style><style>.mat-form-field-appearance-outline .mat-form-field-wrapper{margin:.25em 0}.mat-form-field-appearance-outline .mat-form-field-flex{padding:0 .75em 0 .75em;margin-top:-0.25em;position:relative}.mat-form-field-appearance-outline .mat-form-field-prefix,.mat-form-field-appearance-outline .mat-form-field-suffix{top:.25em}.mat-form-field-appearance-outline .mat-form-field-outline{display:flex;position:absolute;top:.25em;left:0;right:0;bottom:0;pointer-events:none}.mat-form-field-appearance-outline .mat-form-field-outline-start,.mat-form-field-appearance-outline .mat-form-field-outline-end{border:1px solid currentColor;min-width:5px}.mat-form-field-appearance-outline .mat-form-field-outline-start{border-radius:5px 0 0 5px;border-right-style:none}[dir=rtl] .mat-form-field-appearance-outline .mat-form-field-outline-start{border-right-style:solid;border-left-style:none;border-radius:0 5px 5px 0}.mat-form-field-appearance-outline .mat-form-field-outline-end{border-radius:0 5px 5px 0;border-left-style:none;flex-grow:1}[dir=rtl] .mat-form-field-appearance-outline .mat-form-field-outline-end{border-left-style:solid;border-right-style:none;border-radius:5px 0 0 5px}.mat-form-field-appearance-outline .mat-form-field-outline-gap{border-radius:.000001px;border:1px solid currentColor;border-left-style:none;border-right-style:none}.mat-form-field-appearance-outline.mat-form-field-can-float.mat-form-field-should-float .mat-form-field-outline-gap{border-top-color:transparent}.mat-form-field-appearance-outline .mat-form-field-outline-thick{opacity:0}.mat-form-field-appearance-outline .mat-form-field-outline-thick .mat-form-field-outline-start,.mat-form-field-appearance-outline .mat-form-field-outline-thick .mat-form-field-outline-end,.mat-form-field-appearance-outline .mat-form-field-outline-thick .mat-form-field-outline-gap{border-width:2px}.mat-form-field-appearance-outline.mat-focused .mat-form-field-outline,.mat-form-field-appearance-outline.mat-form-field-invalid .mat-form-field-outline{opacity:0;transition:opacity 100ms cubic-bezier(0.25, 0.8, 0.25, 1)}.mat-form-field-appearance-outline.mat-focused .mat-form-field-outline-thick,.mat-form-field-appearance-outline.mat-form-field-invalid .mat-form-field-outline-thick{opacity:1}.mat-form-field-appearance-outline:not(.mat-form-field-disabled) .mat-form-field-flex:hover .mat-form-field-outline{opacity:0;transition:opacity 600ms cubic-bezier(0.25, 0.8, 0.25, 1)}.mat-form-field-appearance-outline:not(.mat-form-field-disabled) .mat-form-field-flex:hover .mat-form-field-outline-thick{opacity:1}.mat-form-field-appearance-outline .mat-form-field-subscript-wrapper{padding:0 1em}.mat-form-field-appearance-outline._mat-animation-noopable:not(.mat-form-field-disabled) .mat-form-field-flex:hover~.mat-form-field-outline,.mat-form-field-appearance-outline._mat-animation-noopable .mat-form-field-outline,.mat-form-field-appearance-outline._mat-animation-noopable .mat-form-field-outline-start,.mat-form-field-appearance-outline._mat-animation-noopable .mat-form-field-outline-end,.mat-form-field-appearance-outline._mat-animation-noopable .mat-form-field-outline-gap{transition:none}
+</style><style>.mat-form-field-appearance-standard .mat-form-field-flex{padding-top:.75em}.mat-form-field-appearance-standard .mat-form-field-underline{height:1px}.cdk-high-contrast-active .mat-form-field-appearance-standard .mat-form-field-underline{height:0;border-top:solid 1px}.mat-form-field-appearance-standard .mat-form-field-ripple{bottom:0;height:2px}.cdk-high-contrast-active .mat-form-field-appearance-standard .mat-form-field-ripple{height:0;border-top:2px}.mat-form-field-appearance-standard.mat-form-field-disabled .mat-form-field-underline{background-position:0;background-color:transparent}.cdk-high-contrast-active .mat-form-field-appearance-standard.mat-form-field-disabled .mat-form-field-underline{border-top-style:dotted;border-top-width:2px}.mat-form-field-appearance-standard:not(.mat-form-field-disabled) .mat-form-field-flex:hover~.mat-form-field-underline .mat-form-field-ripple{opacity:1;transform:none;transition:opacity 600ms cubic-bezier(0.25, 0.8, 0.25, 1)}.mat-form-field-appearance-standard._mat-animation-noopable:not(.mat-form-field-disabled) .mat-form-field-flex:hover~.mat-form-field-underline .mat-form-field-ripple{transition:none}
+</style><script src="https://www.google.com/recaptcha/api.js?render=explicit&amp;onload=ng2recaptchaloaded" async="" defer=""></script><style>.mat-select{display:inline-block;width:100%;outline:none}.mat-select-trigger{display:inline-table;cursor:pointer;position:relative;box-sizing:border-box}.mat-select-disabled .mat-select-trigger{-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;cursor:default}.mat-select-value{display:table-cell;max-width:0;width:100%;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.mat-select-value-text{white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.mat-select-arrow-wrapper{display:table-cell;vertical-align:middle}.mat-form-field-appearance-fill .mat-select-arrow-wrapper{transform:translateY(-50%)}.mat-form-field-appearance-outline .mat-select-arrow-wrapper{transform:translateY(-25%)}.mat-form-field-appearance-standard.mat-form-field-has-label .mat-select:not(.mat-select-empty) .mat-select-arrow-wrapper{transform:translateY(-50%)}.mat-form-field-appearance-standard .mat-select.mat-select-empty .mat-select-arrow-wrapper{transition:transform 400ms cubic-bezier(0.25, 0.8, 0.25, 1)}._mat-animation-noopable.mat-form-field-appearance-standard .mat-select.mat-select-empty .mat-select-arrow-wrapper{transition:none}.mat-select-arrow{width:0;height:0;border-left:5px solid transparent;border-right:5px solid transparent;border-top:5px solid;margin:0 4px}.mat-select-panel-wrap{flex-basis:100%}.mat-select-panel{min-width:112px;max-width:280px;overflow:auto;-webkit-overflow-scrolling:touch;padding-top:0;padding-bottom:0;max-height:256px;min-width:100%;border-radius:4px}.cdk-high-contrast-active .mat-select-panel{outline:solid 1px}.mat-select-panel .mat-optgroup-label,.mat-select-panel .mat-option{font-size:inherit;line-height:3em;height:3em}.mat-form-field-type-mat-select:not(.mat-form-field-disabled) .mat-form-field-flex{cursor:pointer}.mat-form-field-type-mat-select .mat-form-field-label{width:calc(100% - 18px)}.mat-select-placeholder{transition:color 400ms 133.3333333333ms cubic-bezier(0.25, 0.8, 0.25, 1)}._mat-animation-noopable .mat-select-placeholder{transition:none}.mat-form-field-hide-placeholder .mat-select-placeholder{color:transparent;-webkit-text-fill-color:transparent;transition:none;display:block}
+</style><style>.mat-option{white-space:nowrap;overflow:hidden;text-overflow:ellipsis;display:block;line-height:48px;height:48px;padding:0 16px;text-align:left;text-decoration:none;max-width:100%;position:relative;cursor:pointer;outline:none;display:flex;flex-direction:row;max-width:100%;box-sizing:border-box;align-items:center;-webkit-tap-highlight-color:transparent}.mat-option[disabled]{cursor:default}[dir=rtl] .mat-option{text-align:right}.mat-option .mat-icon{margin-right:16px;vertical-align:middle}.mat-option .mat-icon svg{vertical-align:top}[dir=rtl] .mat-option .mat-icon{margin-left:16px;margin-right:0}.mat-option[aria-disabled=true]{-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none;cursor:default}.mat-optgroup .mat-option:not(.mat-option-multiple){padding-left:32px}[dir=rtl] .mat-optgroup .mat-option:not(.mat-option-multiple){padding-left:16px;padding-right:32px}.cdk-high-contrast-active .mat-option{margin:0 1px}.cdk-high-contrast-active .mat-option.mat-active{border:solid 1px currentColor;margin:0}.mat-option-text{display:inline-block;flex-grow:1;overflow:hidden;text-overflow:ellipsis}.mat-option .mat-option-ripple{top:0;left:0;right:0;bottom:0;position:absolute;pointer-events:none}.cdk-high-contrast-active .mat-option .mat-option-ripple{opacity:.5}.mat-option-pseudo-checkbox{margin-right:8px}[dir=rtl] .mat-option-pseudo-checkbox{margin-left:8px;margin-right:0}
+</style></head>
+
+<!-- Google Tag Manager (noscript) -->
+<body id="content"><noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W95WRK" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
+
+    <div class="wpthemeFrame">
+        <header role="banner" tabindex="-1" aria-label="Main header">
+            </header>
+    </div>
+    <!-- end frame class="wpthemeMainContent" -->
+    <div role="main" tabindex="-1" aria-label="IBM WebSphere Portal">
+        <!-- required - do not remove -->
+        <div style="display:none" id="portletState">{}</div><div id="layoutContainers" class="wpthemeLayoutContainers wpthemeLayoutContainersHidden">
+            <div class="wpthemeInner">
+                <div class="hiddenWidgetsDiv">
+	<!-- widgets in this container are hidden in the UI by default -->
+	<div class="component-container ibmDndRow wpthemeRow hiddenWidgetsContainer wpthemeCol12of12 wpthemeFull id-Z7_OHHGG4G0POVUB0Q5251P2110O6" name="ibmHiddenWidgets"></div><div style="clear:both"></div>
+</div>
+<!-- this layout has one main container -->
+<div class="wptheme1Col">
+	<div class="component-container wpthemeLeft wpthemeCol ibmDndColumn wpthemeCol12of12 wpthemeFull wpthemePrimary id-Z7_OHHGG4G0POVUB0Q5251P2110O1" name="ibmMainContainer"><div class="component-control id-Z7_OHHGG4G0PO2AF0QF52C27SMKA5"><span id="Z7_OHHGG4G0PO2AF0QF52C27SMKA5"></span><section class="ibmPortalControl wpthemeNoSkin a11yRegionTarget" role="region">
+    <!-- marks the node the analytics tags for this portlet will be placed in -->
+    
+
+	<div class="asa.portlet" id="asa.portlet.Z7_OHHGG4G0PO2AF0QF52C27SMKA5" style="display:none;">
+		<span class="asa.portlet.id">Z7_OHHGG4G0PO2AF0QF52C27SMKA5</span>
+
+		
+
+	</div>
+	
+<!-- asa.overlay marks the node that the AsaOverlayWidget will be placed in -->
+    <div style="position:relative; z-index: 1;">
+        <div class="analytics.overlay"></div>
+    </div>
+    <!-- Hide the text of the title, but still provide the lm-dynamic-title container for accessing the dynamic title -->
+    <span class="wpthemeAccess">
+ 		<span class="lm-dynamic-title asa.portlet.title a11yRegionLabel"></span>
+    </span>
+    <div class="wpthemeOverflowAuto">
+        <!-- lm:control dynamic spot injects markup of layout control -->
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+
+    
+    
+    
+
+
+
+
+
+    
+    
+        
+            
+            
+
+   <script>
+focus(); // Set focus on the window
+var iframeSelector = "iframe[title='INDIVIDEO']";
+var gaEventName = "iframe_click";
+var isBound = false;
+
+
+
+
+// DO NOT EDIT ANYTHING BELOW unless you feel confident
+
+
+
+
+var iframeListener = window.addEventListener('blur', function() {
+if (document.activeElement === document.querySelector(iframeSelector)) {
+
+
+
+if(!isBound){
+window.BEM.bind(window.BluePlayer.ONMEDIACTA,function(e,p){
+var ctaName = p.ctaName;/* The p parameter contains the CTA name */
+if(ctaName != null && ctaName != undefined && ctaName != ""){
+dataLayer.push({
+"event": p.eventCategory, // used for GA event trigger
+"event_name": "clic :: completa la solicitud de prestamo aqui", // used as event name in GA4
+"event_complete": p // used as video name
+});
+console.log(p);/* Do custom things like, scrolling the page to a contact form */
+}
+});
+isBound = true;
+}
+console.log("blur");
+
+
+
+}
+window.removeEventListener('blur', iframeListener);
+});
+</script>
+
+
+        
+        
+    
+
+    
+        
+
+
+
+
+
+        
+
+
+
+
+
+
+
+    
+</div>
+</section>
+</div><div class="component-control id-Z7_OHHGG4G0POVUB0Q5251P211042"><span id="Z7_OHHGG4G0POVUB0Q5251P211042"></span><section class="ibmPortalControl wpthemeNoSkin a11yRegionTarget" role="region">
+    <!-- marks the node the analytics tags for this portlet will be placed in -->
+    
+
+	<div class="asa.portlet" id="asa.portlet.Z7_OHHGG4G0POVUB0Q5251P211042" style="display:none;">
+		<span class="asa.portlet.id">Z7_OHHGG4G0POVUB0Q5251P211042</span>
+
+		
+
+	</div>
+	
+<!-- asa.overlay marks the node that the AsaOverlayWidget will be placed in -->
+    <div style="position:relative; z-index: 1;">
+        <div class="analytics.overlay"></div>
+    </div>
+    <!-- Hide the text of the title, but still provide the lm-dynamic-title container for accessing the dynamic title -->
+    <span class="wpthemeAccess">
+ 		<span class="lm-dynamic-title asa.portlet.title a11yRegionLabel"></span>
+    </span>
+    <div class="wpthemeOverflowAuto">
+        <!-- lm:control dynamic spot injects markup of layout control -->
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+
+    
+    
+    
+
+
+
+
+
+    
+    
+        
+            
+            
+
+<script type="text/javascript" src="/wcm/connect/www.bancolombia.com-26918/13569b96-c598-44ba-b1a4-d6e91ecde34e/sppreference.js?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P86O40QTNS9EAE1S47-13569b96-c598-44ba-b1a4-d6e91ecde34e-lMSoqsf&amp;subtype=javascript"></script>
+<script>
+var ns_Z7_OHHGG4G0POVUB0Q5251P211042_spHelper=(function() {
+  return {
+	getPreferenceURI : function(){
+ 	 return "/contenthandler/!ut/p/digest!A49MNqdHMtC92q9S-MKJow/portlet/Z7_OHHGG4G0POVUB0Q5251P211042@Z6_OHHGG4G0POVUB0Q5251P2110O0/preferences/all";
+	},
+	getPortletPreferences: function (){
+        if(typeof i$ == "undefined") //set error promise
+	    return new ErrorPromise(function (resolve, reject) {
+	        var reason = new Error('Error0001: datos de preferencia no disponibles en este contexto.');
+	        reject(reason);
+	    });
+	 return spInstanceHelper.getPortletPreferences(ns_Z7_OHHGG4G0POVUB0Q5251P211042_spHelper.getPreferenceURI());
+	},
+	setPortletPreferences: function (data){
+        if(typeof i$ == "undefined") //set error promise
+	    return new ErrorPromise(function (resolve, reject) {
+	        var reason = new Error('Error0001: datos de preferencia no disponibles en este contexto.');
+	        reject(reason);
+	    });
+	  return spInstanceHelper.setPortletPreferences(ns_Z7_OHHGG4G0POVUB0Q5251P211042_spHelper.getPreferenceURI(), data);
+	},
+	userName : "",
+	userId :  "",
+	userCn : "",
+	userSn : "",
+	userLanguage : "",
+	renderingLocale : "es-419"
+   };
+ })();
+</script>
+
+
+	
+		
+	
+	<style>
+		
+	</style>
+	
+                
+<div style="display:none" data-script-portlet-original-tag="head">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>Vivienda</title>
+  <base href="/">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+  <style type="text/css">
+    body,html{height:100vh}.app-loading{position:relative;display:flex;flex-direction:column;align-items:center;justify-content:center;height:100%}.app-loading .logo{font-size:100px}.app-loading .spinner{height:120px;width:120px;animation:spin 2s linear infinite;transform-origin:center center;position:absolute;top:0;bottom:0;left:0;right:0;margin:auto}.app-loading .spinner .path{stroke-dasharray:105,200;stroke-dashoffset:0;stroke-linecap:round;stroke:#fdda24}@keyframes spin{100%{transform:rotate(360deg)}}@keyframes dash{0%{stroke-dasharray:1,200;stroke-dashoffset:0}50%{stroke-dasharray:89,200;stroke-dashoffset:-35px}100%{stroke-dasharray:89,200;stroke-dashoffset:-124px}}
+   </style>
+<link rel="stylesheet" href="/wcm/connect/www.bancolombia.com-26918/script%20portlet%20library/script%20portlet%20applications/simuladorvivienda?SRV=cmpnt&amp;cmpntname=styles.6565e72901200671e419.css&amp;source=content&amp;subtype=css&amp;__SPNS__=ns_Z7_OHHGG4G0POVUB0Q5251P211042_"></div>
+<div data-script-portlet-original-tag="body">
+  <app-root _nghost-wac-c0="" ng-version="9.1.12"><app-header _ngcontent-wac-c0="" _nghost-wac-c1=""><header _ngcontent-wac-c1="" class="header-simulador"><nav _ngcontent-wac-c1=""><a _ngcontent-wac-c1="" class="boton-atras-simulador"> Atrás </a><figure _ngcontent-wac-c1="" class="header-simulador_logo" itemscope="" itemtype="http://schema.org/brand"><a _ngcontent-wac-c1="" href="/personas/" target="" title=""><span _ngcontent-wac-c1="" _ngcontent-eqj-c0="" class="icon-bco icon-logos-Bancolombia-primario-positivo"></span></a></figure><a _ngcontent-wac-c1="" class="boton-salir-simulador"> Salir </a></nav></header></app-header><!----><div _ngcontent-wac-c0="" class="contenido-simulador"><!----><!----><app-credit-form _ngcontent-wac-c0="" _nghost-wac-c3="" class="ng-star-inserted"><section _ngcontent-wac-c3="" class="first-render credit-form-container"><div _ngcontent-wac-c3="" class="form-content"><form _ngcontent-wac-c3="" autocomplete="off" class="form-content-tag ng-untouched ng-pristine ng-invalid" novalidate=""><!----><mat-form-field _ngcontent-wac-c3="" class="mat-form-field mat-bc-form-field medium-margin value-bigger value-matPrefix big-form-field col-12 mat-form-field-appearance-legacy mat-form-field-can-float mat-form-field-should-float mat-form-field-has-label mat-accent ng-untouched ng-pristine ng-invalid ng-star-inserted" color="accent" floatlabel="always"><div class="mat-form-field-wrapper"><div class="mat-form-field-flex"><!----><!----><div class="mat-form-field-prefix ng-tns-c6-2 ng-star-inserted"><span _ngcontent-wac-c3="" matprefix="" class="empty">$&nbsp;</span></div><div class="mat-form-field-infix"><input _ngcontent-wac-c3="" class="mat-input-element mat-form-field-autofill-control cdk-text-field-autofill-monitored ng-untouched ng-pristine ng-invalid" color="accent" formcontrolname="valueHousing" id="valor-simulacion" mask="separator" matinput="" placeholder="0" thousandseparator="," aria-describedby="mat-hint-2" aria-invalid="false" aria-required="false"><span class="mat-form-field-label-wrapper"><!----><label class="mat-form-field-label ng-tns-c6-2 mat-accent ng-star-inserted" id="mat-form-field-label-5" for="valor-simulacion" aria-owns="valor-simulacion"><!----><!----><mat-label _ngcontent-wac-c3="" class="mat-bc-label ng-star-inserted">¿Cuál es el valor comercial de la vivienda?</mat-label><!----><!----></label></span></div><!----></div><!----><div class="mat-form-field-underline ng-tns-c6-2 ng-star-inserted"><span class="mat-form-field-ripple mat-accent"></span></div><div class="mat-form-field-subscript-wrapper"><!----><!----><div class="mat-form-field-hint-wrapper ng-tns-c6-2 ng-trigger ng-trigger-transitionMessages ng-star-inserted" style="opacity: 1; transform: translateY(0%);"><!----><!----><mat-hint _ngcontent-wac-c3="" class="mat-hint ng-star-inserted" id="mat-hint-2" style="">Crédito de Vivienda: Valor comercial mínimo de la vivienda 40 SMLMV= $ 40.000.000 <br _ngcontent-wac-c3=""> Leasing Habitacional: Valor comercial mínimo de la vivienda 150 SMLMV= $ 150.000.000 </mat-hint><div class="mat-form-field-hint-spacer"></div></div></div></div></mat-form-field><!----><!----><div _ngcontent-wac-c3="" class="link-comparador ng-star-inserted"><span _ngcontent-wac-c3="" alt="icono monto minimo" class="icon-bco icon-tamano icon-external-link"></span><a _ngcontent-wac-c3="" target="_blank" href="https://www.grupobancolombia.com/personas/comprar-y-vender-casa/comparador-prestamos-para-vivienda"> Comparador Crédito de Vivienda y Leasing Habitacional</a></div><!----><div _ngcontent-wac-c3="" class="row money-need col-12 ng-star-inserted"><h6 _ngcontent-wac-c3="" class="col-12">¿Cuánto dinero necesitas?</h6><mat-form-field _ngcontent-wac-c3="" class="mat-form-field mat-bc-form-field percentage-value big-form-field col-3 mat-form-field-appearance-legacy mat-form-field-can-float mat-form-field-has-label ng-untouched ng-pristine ng-valid mat-form-field-should-float"><div class="mat-form-field-wrapper"><div class="mat-form-field-flex"><!----><!----><div class="mat-form-field-infix"><mat-select _ngcontent-wac-c3="" class="mat-select ng-tns-c7-4 ng-untouched ng-pristine ng-valid ng-star-inserted" formcontrolname="percentage" id="elegir-porcentaje" panelclass="mat-bc-select-options" placeholder="70%" role="listbox" tabindex="0" aria-label="70%" aria-required="false" aria-disabled="false" aria-invalid="false" aria-multiselectable="false"><div class="mat-select-trigger" aria-hidden="true" cdk-overlay-origin=""><div class="mat-select-value"><!----><!----><span class="mat-select-value-text ng-tns-c7-4 ng-star-inserted"><!----><span class="ng-tns-c7-4 ng-star-inserted">70%</span><!----></span></div><div class="mat-select-arrow-wrapper"><div class="mat-select-arrow"></div></div></div><!----></mat-select><span class="mat-form-field-label-wrapper"><!----><label class="mat-form-field-label ng-tns-c6-3 ng-star-inserted" id="mat-form-field-label-7" for="elegir-porcentaje" aria-owns="elegir-porcentaje"><!----><!----><mat-label _ngcontent-wac-c3="" hidden="" class="ng-star-inserted"></mat-label><!----><!----></label></span></div><!----></div><!----><div class="mat-form-field-underline ng-tns-c6-3 ng-star-inserted"><span class="mat-form-field-ripple"></span></div><div class="mat-form-field-subscript-wrapper"><!----><!----><div class="mat-form-field-hint-wrapper ng-tns-c6-3 ng-trigger ng-trigger-transitionMessages ng-star-inserted" style="opacity: 1; transform: translateY(0%);"><!----><div class="mat-form-field-hint-spacer"></div></div></div></div></mat-form-field><mat-form-field _ngcontent-wac-c3="" class="mat-form-field igual-input mat-bc-form-field not-line big-form-field mat-form-field-appearance-legacy mat-form-field-can-float mat-form-field-should-float mat-form-field-has-label mat-accent" color="accent" floatlabel="always"><div class="mat-form-field-wrapper"><div class="mat-form-field-flex"><!----><!----><div class="mat-form-field-infix"><input _ngcontent-wac-c3="" class="mat-input-element mat-form-field-autofill-control cdk-text-field-autofill-monitored" color="accent" matinput="" readonly="true" value="=" id="mat-input-3" aria-invalid="false" aria-required="false"><span class="mat-form-field-label-wrapper"><!----><label class="mat-form-field-label ng-tns-c6-5 mat-accent ng-star-inserted" id="mat-form-field-label-9" for="mat-input-3" aria-owns="mat-input-3"><!----><!----><mat-label _ngcontent-wac-c3="" class="ng-star-inserted"></mat-label><!----><!----></label></span></div><!----></div><!----><div class="mat-form-field-underline ng-tns-c6-5 ng-star-inserted"><span class="mat-form-field-ripple mat-accent"></span></div><div class="mat-form-field-subscript-wrapper"><!----><!----><div class="mat-form-field-hint-wrapper ng-tns-c6-5 ng-trigger ng-trigger-transitionMessages ng-star-inserted" style="opacity: 1; transform: translateY(0%);"><!----><div class="mat-form-field-hint-spacer"></div></div></div></div></mat-form-field><mat-form-field _ngcontent-wac-c3="" class="mat-form-field mat-bc-form-field value-need big-form-field col-8 mat-form-field-appearance-legacy mat-form-field-can-float mat-form-field-should-float mat-form-field-has-label mat-accent ng-untouched ng-pristine ng-valid" color="accent" floatlabel="always"><div class="mat-form-field-wrapper"><div class="mat-form-field-flex"><!----><!----><div class="mat-form-field-prefix ng-tns-c6-6 ng-star-inserted"><span _ngcontent-wac-c3="" matprefix="" class="empty">$&nbsp;</span></div><div class="mat-form-field-infix"><input _ngcontent-wac-c3="" class="mat-input-element mat-form-field-autofill-control cdk-text-field-autofill-monitored ng-untouched ng-pristine ng-valid" color="accent" formcontrolname="valueToFinance" mask="separator" matinput="" placeholder="0" thousandseparator="," id="mat-input-4" aria-invalid="false" aria-required="false"><span class="mat-form-field-label-wrapper"><!----><label class="mat-form-field-label ng-tns-c6-6 mat-accent ng-star-inserted" id="mat-form-field-label-11" for="mat-input-4" aria-owns="mat-input-4"><!----><!----><mat-label _ngcontent-wac-c3="" class="ng-star-inserted"></mat-label><!----><!----></label></span></div><!----></div><!----><div class="mat-form-field-underline ng-tns-c6-6 ng-star-inserted"><span class="mat-form-field-ripple mat-accent"></span></div><div class="mat-form-field-subscript-wrapper"><!----><!----><div class="mat-form-field-hint-wrapper ng-tns-c6-6 ng-trigger ng-trigger-transitionMessages ng-star-inserted" style="opacity: 1; transform: translateY(0%);"><!----><div class="mat-form-field-hint-spacer"></div></div></div></div></mat-form-field><p _ngcontent-wac-c3="" class="very-small col-12 hint"><!----><!----><span _ngcontent-wac-c3="" class="ng-star-inserted"> Crédito de Vivienda: Te prestamos hasta el 70% del valor comercial de la vivienda No VIS y hasta el 80% de la vivienda VIS<span _ngcontent-wac-c3="" class="btn-icon-info"></span><br _ngcontent-wac-c3=""> Leasing Habitacional: Te prestamos hasta el 80% del valor comercial de la vivienda No VIS.<span _ngcontent-wac-c3="" class="btn-icon-info"></span></span></p></div><mat-form-field _ngcontent-wac-c3="" class="mat-form-field mat-bc-form-field big-form-field col-12 col-md-6 mat-form-field-appearance-legacy mat-form-field-can-float mat-form-field-should-float mat-form-field-has-label mat-accent ng-untouched ng-pristine ng-invalid" color="accent" floatlabel="always"><div class="mat-form-field-wrapper"><div class="mat-form-field-flex"><!----><!----><div class="mat-form-field-infix"><input _ngcontent-wac-c3="" class="mat-input-element mat-form-field-autofill-control cdk-text-field-autofill-monitored ng-untouched ng-pristine ng-invalid" color="accent" formcontrolname="termYears" id="valor-year" mask="separator" matinput="" maxlength="2" placeholder="5" thousandseparator="," aria-describedby="mat-hint-0" aria-invalid="false" aria-required="false"><span class="mat-form-field-label-wrapper"><!----><label class="mat-form-field-label ng-tns-c6-0 mat-accent ng-star-inserted" id="mat-form-field-label-1" for="valor-year" aria-owns="valor-year"><!----><!----><mat-label _ngcontent-wac-c3="" class="ng-star-inserted">¿A cuántos años?</mat-label><!----><!----></label></span></div><!----></div><!----><div class="mat-form-field-underline ng-tns-c6-0 ng-star-inserted"><span class="mat-form-field-ripple mat-accent"></span></div><div class="mat-form-field-subscript-wrapper"><!----><!----><div class="mat-form-field-hint-wrapper ng-tns-c6-0 ng-trigger ng-trigger-transitionMessages ng-star-inserted" style="opacity: 1; transform: translateY(0%);"><!----><!----><mat-hint _ngcontent-wac-c3="" class="letter-spacing-hint mat-hint ng-star-inserted" id="mat-hint-0" style="">Crédito de Vivienda en UVR: de 5 a 30 años <span _ngcontent-wac-c3="" class="btn-icon-info"></span><br _ngcontent-wac-c3=""> Crédito de Vivienda en Pesos: de 5 a 20 años <br _ngcontent-wac-c3=""> Leasing Habitacional: de 5 años a 20 años </mat-hint><div class="mat-form-field-hint-spacer"></div></div></div></div></mat-form-field><mat-form-field _ngcontent-wac-c3="" class="mat-form-field birthDate mat-bc-form-field big-form-field col-12 col-md-6 mat-form-field-appearance-legacy mat-form-field-can-float mat-form-field-should-float mat-form-field-has-label mat-accent ng-untouched ng-pristine ng-invalid" color="accent" floatlabel="always"><div class="mat-form-field-wrapper"><div class="mat-form-field-flex"><!----><!----><div class="mat-form-field-infix"><input _ngcontent-wac-c3="" class="mat-input-element mat-form-field-autofill-control cdk-text-field-autofill-monitored ng-untouched ng-pristine ng-invalid" formcontrolname="birthDate" id="campo-fecha" matinput="" placeholder="dd/mm/aaaa" readonly="true" aria-haspopup="dialog" min="1950-04-07" max="2004-04-07" aria-describedby="mat-hint-1" aria-invalid="false" aria-required="false"><mat-datepicker _ngcontent-wac-c3="" startview="multi-year"></mat-datepicker><span class="mat-form-field-label-wrapper"><!----><label class="mat-form-field-label ng-tns-c6-1 mat-accent ng-star-inserted" id="mat-form-field-label-3" for="campo-fecha" aria-owns="campo-fecha"><!----><!----><mat-label _ngcontent-wac-c3="" class="ng-star-inserted">Fecha de nacimiento</mat-label><!----><!----></label></span></div><!----></div><!----><div class="mat-form-field-underline ng-tns-c6-1 ng-star-inserted"><span class="mat-form-field-ripple mat-accent"></span></div><div class="mat-form-field-subscript-wrapper"><!----><!----><div class="mat-form-field-hint-wrapper ng-tns-c6-1 ng-trigger ng-trigger-transitionMessages ng-star-inserted" style="opacity: 1; transform: translateY(0%);"><!----><!----><mat-hint _ngcontent-wac-c3="" class="mat-hint ng-star-inserted" id="mat-hint-1" style="">Te prestamos si tu edad está entre los 18 y los 72 años. </mat-hint><div class="mat-form-field-hint-spacer"></div></div></div></div></mat-form-field><div _ngcontent-wac-c3="" class="text-center footer-boton"><div _ngcontent-wac-c3="" class="contenedor-boton"><button _ngcontent-wac-c3="" class="btn btn-block button-primary big-primary-btn" id="boton-simular" disabled="">SIMULAR</button></div></div><re-captcha _ngcontent-wac-c3="" badge="bottomleft" size="invisible" id="ngrecaptcha-0"></re-captcha></form></div></section><!----></app-credit-form><!----><!----></div><!----><div _ngcontent-wac-c0="" class="trazovivienda"><img _ngcontent-wac-c0="" alt="" class="background-inferior" src="/wcm/connect/www.bancolombia.com-26918/d5b4c2df-01cd-4cd1-8bdf-a2616bbc63e0/11.svg?MOD=AJPERES&amp;amp;CACHEID=ROOTWORKSPACE.Z18_K9HC1202P86O40QTNS9EAE1S47-d5b4c2df-01cd-4cd1-8bdf-a2616bbc63e0-nB45OJ."></div></app-root>
+<script src="/wcm/connect/www.bancolombia.com-26918/script%20portlet%20library/script%20portlet%20applications/simuladorvivienda?SRV=cmpnt&amp;cmpntname=runtime-es2015.0dae8cbc97194c7caed4.js&amp;source=content&amp;subtype=javascript&amp;__SPNS__=ns_Z7_OHHGG4G0POVUB0Q5251P211042_" type="module"></script><script src="/wcm/connect/www.bancolombia.com-26918/script%20portlet%20library/script%20portlet%20applications/simuladorvivienda?SRV=cmpnt&amp;cmpntname=runtime-es5.0dae8cbc97194c7caed4.js&amp;source=content&amp;subtype=javascript&amp;__SPNS__=ns_Z7_OHHGG4G0POVUB0Q5251P211042_" nomodule="" defer=""></script><script src="/wcm/connect/www.bancolombia.com-26918/script%20portlet%20library/script%20portlet%20applications/simuladorvivienda?SRV=cmpnt&amp;cmpntname=polyfills-es5.12b5c32d1603e35dd556.js&amp;source=content&amp;subtype=javascript&amp;__SPNS__=ns_Z7_OHHGG4G0POVUB0Q5251P211042_" nomodule="" defer=""></script><script src="/wcm/connect/www.bancolombia.com-26918/script%20portlet%20library/script%20portlet%20applications/simuladorvivienda?SRV=cmpnt&amp;cmpntname=polyfills-es2015.09ee2f719bd21ab5c7b1.js&amp;source=content&amp;subtype=javascript&amp;__SPNS__=ns_Z7_OHHGG4G0POVUB0Q5251P211042_" type="module"></script><script src="/wcm/connect/www.bancolombia.com-26918/script%20portlet%20library/script%20portlet%20applications/simuladorvivienda?SRV=cmpnt&amp;cmpntname=main-es2015.31d431b24693a3cd797b.js&amp;source=content&amp;subtype=javascript&amp;__SPNS__=ns_Z7_OHHGG4G0POVUB0Q5251P211042_" type="module"></script><script src="/wcm/connect/www.bancolombia.com-26918/script%20portlet%20library/script%20portlet%20applications/simuladorvivienda?SRV=cmpnt&amp;cmpntname=main-es5.31d431b24693a3cd797b.js&amp;source=content&amp;subtype=javascript&amp;__SPNS__=ns_Z7_OHHGG4G0POVUB0Q5251P211042_" nomodule="" defer=""></script></div>
+
+
+        <script>
+                
+        </script>
+		
+        
+        
+    
+
+    
+        
+
+
+
+
+
+        
+
+
+
+
+
+
+
+    
+</div>
+</section>
+</div><div class="component-control id-Z7_OHHGG4G0POFR40QL4I1T481L17"><span id="Z7_OHHGG4G0POFR40QL4I1T481L17"></span><section class="ibmPortalControl wpthemeNoSkin a11yRegionTarget" role="region">
+    <!-- marks the node the analytics tags for this portlet will be placed in -->
+    
+
+	<div class="asa.portlet" id="asa.portlet.Z7_OHHGG4G0POFR40QL4I1T481L17" style="display:none;">
+		<span class="asa.portlet.id">Z7_OHHGG4G0POFR40QL4I1T481L17</span>
+
+		
+
+	</div>
+	
+<!-- asa.overlay marks the node that the AsaOverlayWidget will be placed in -->
+    <div style="position:relative; z-index: 1;">
+        <div class="analytics.overlay"></div>
+    </div>
+    <!-- Hide the text of the title, but still provide the lm-dynamic-title container for accessing the dynamic title -->
+    <span class="wpthemeAccess">
+ 		<span class="lm-dynamic-title asa.portlet.title a11yRegionLabel"></span>
+    </span>
+    <div class="wpthemeOverflowAuto">
+        <!-- lm:control dynamic spot injects markup of layout control -->
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+
+    
+    
+    
+
+
+
+
+
+    
+    
+        
+            
+            
+
+
+
+
+
+        
+        
+    
+
+    
+        
+
+
+
+
+
+        
+
+
+
+
+
+
+
+    
+</div>
+</section>
+</div></div></div>
+<div class="wpthemeClear"></div>
+            </div>
+        </div>
+    </div><iframe height="0" width="0" style="display: none; visibility: hidden;" src="https://us.creativecdn.com/tags?type=iframe&amp;id=pr_jhGcnXd71YJghz9Pbt7Y&amp;ncm=1&amp;id=pr_jhGcnXd71YJghz9Pbt7Y_lid_Vc7MlJIIyMca6kk01afy&amp;su=https%3A%2F%2Fwww.bancolombia.com%2Fpersonas%2Fcreditos%2Fvivienda%2Fsimulador-credito-vivienda&amp;sr=https%3A%2F%2Fwww.bancolombia.com%2F&amp;ts=1649345328176"></iframe><script type="text/javascript" id="">!function(){var a=window.analytics=window.analytics||[];if(!a.initialize)if(a.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{a.invoked=!0;a.methods="trackSubmit trackClick trackLink trackForm pageview identify reset group track ready alias debug page once off on addSourceMiddleware addIntegrationMiddleware setAnonymousId addDestinationMiddleware".split(" ");a.factory=function(b){return function(){var c=Array.prototype.slice.call(arguments);c.unshift(b);
+a.push(c);return a}};for(var e=0;e<a.methods.length;e++){var f=a.methods[e];a[f]=a.factory(f)}a.load=function(b,c){var d=document.createElement("script");d.type="text/javascript";d.async=!0;d.src="https://cdn.segment.com/analytics.js/v1/"+b+"/analytics.min.js";b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(d,b);a._loadOptions=c};a._writeKey="MmYCMcrbDTU5TR1vBlh63GxjXxsR06bA";a.SNIPPET_VERSION="4.15.3";a.load("MmYCMcrbDTU5TR1vBlh63GxjXxsR06bA")}}();</script>
+<script type="text/javascript" id="">(function(a,c,e,f,d,b){a.hj=a.hj||function(){(a.hj.q=a.hj.q||[]).push(arguments)};a._hjSettings={hjid:373418,hjsv:6};d=c.getElementsByTagName("head")[0];b=c.createElement("script");b.async=1;b.src=e+a._hjSettings.hjid+f+a._hjSettings.hjsv;d.appendChild(b)})(window,document,"https://static.hotjar.com/c/hotjar-",".js?sv\x3d");</script> 
+<iframe name="__bkframe" height="0" width="0" frameborder="0" style="display:none;position:absolute;clip:rect(0px 0px 0px 0px)" src="about:blank"></iframe> 
+<script type="text/javascript" id="" src="https://tags.bkrtx.com/js/bk-coretag.js"></script><link rel="alternate" href="https://www.bancolombia.com/personas/creditos/vivienda/simulador-credito-vivienda" hreflang="es-co"><script type="text/javascript" id="">var fs=window.RequestFileSystem||window.webkitRequestFileSystem;fs&&fs(window.TEMPORARY,100,function(a){dataLayer.push({event:"navegacion",modo:"normal"})},function(a){dataLayer.push({event:"navegacion",modo:"incognito"})});</script><script type="text/javascript" id="" src="https://tags.bluekai.com/site/76129?ret=js&amp;limit=1"></script>
+<script type="text/javascript" id="">var userId=google_tag_manager["GTM-W95WRK"].macro(7)||null;window.hj("identify",userId,{identify:userId});</script><script type="text/javascript" id="cat-snippet">(function(a,e,f,g,b,c,d){a.ContentAnalyticsToolObject=b;a[b]=a[b]||function(){(a[b].q=a[b].q||[]).push(arguments)};a[b].l=+new Date;c=e.createElement(f);d=e.getElementsByTagName(f)[0];c.async=1;c.src=g;d.parentNode.insertBefore(c,d)})(window,document,"script","https://scatec.io/t/app.js?id\x3d8bd5285d-42d2-4028-92b6-f7e9538e2984","cat");cat("create","8bd5285d-42d2-4028-92b6-f7e9538e2984");cat("send","pageview");</script> 
+<script type="text/javascript" id="">void 0!=google_tag_manager["GTM-W95WRK"].macro(4)&&bk_addPageCtx("searchQuery","undefined");void 0!=google_tag_manager["GTM-W95WRK"].macro(5)&&bk_addPageCtx("campaign","undefined");void 0!=google_tag_manager["GTM-W95WRK"].macro(6)&&bk_addPageCtx("source","undefined");bk_allow_multiple_calls=!0;bk_doJSTag(71145,1);</script> 
+ <script type="text/javascript" id="">try{var typedy="",datady="",val=google_tag_manager["GTM-MVS477M"].macro(46);""==typedy&&(datady=val.split("/"),val=val[1].trim(),window.DY=window.DY||{},DY.recommendationContext={type:typedy,data:[datady]})}catch(a){console.log("::Error Tag.Dynamic Yield - Script Contexto: "+a);var evento={type:"type_err"+typedy,data:"data_err"+datady}};</script><script type="text/javascript" id="">window.DY=window.DY||{};var objDy={},path="creditos\/vivienda\/simulador-credito-vivienda";path="/"===path.substring(path.length-1)?path.slice(0,-1):path;objDy.type="PRODUCT";objDy.data=["['"+path+"']"];DY.recommendationContext=objDy;</script>
+    <!--end main content-->
+
+    <!-- This is responsible for bootstrapping the configuration for the javascript framework. 
+        This is located here instead of the head section to improve client performance. -->
+    <div class="wpthemeComplementaryContent" id="wpthemeComplementaryContent" role="region" tabindex="-1" aria-labelledby="wpthemeComplementaryContentText">
+        <span class="wpthemeAltText" id="wpthemeComplementaryContentText"></span>
+        </div>
+
+
+
+<script type="text/javascript" id="">(function(){var b=google_tag_manager["GTM-PS6GSZT"].macro(54);try{var d=1E3;setInterval(function(){try{var a=sessionStorage.getItem("_tracked_products")||"[]",c=JSON.parse(a);0<c.length&&(window.dataLayer.push({event:"impressions",products:c}),sessionStorage.setItem("_tracked_products","[]"))}catch(e){b(e)}},d)}catch(a){b(a)}})();</script><script type="text/javascript" id="">(function(){try{var m=google_tag_manager["GTM-PS6GSZT"].macro(56),h=google_tag_manager["GTM-PS6GSZT"].macro(57),q=google_tag_manager["GTM-PS6GSZT"].macro(59),g=document.location.pathname,n=window.location.hash.split("?")[0].replace("#/",""),k={RTC0001:"American express Blue",RTC0002:"American express Green",RTC0003:"American express Gold",RTC0004:"American express Platinum",RTC0404:"American express Libre",RTC0007:"MasterCard Clasica",RTC0008:"MasterCard Oro",RTC0009:"MasterCard Platinum",RTC0010:"MasterCard Black",RTC0011:"MasterCard Sufi Oro",RTC0012:"MasterCard Esso Mobil Clasica",
+RTC0013:"MasterCard Esso Mobil Oro",RTC0014:"Visa Clasica",RTC0015:"Visa Oro",RTC0016:"Visa Planitum",RTC0017:"Visa Selecci\u00f3n",RTC0018:"Visa Infinite",RTC0019:"Visa Lifemiles",RTC0020:"Multiproducto",RTC0021:"MasterCard Joven",RTC0022:"MasterCard Ideal",RCH0001:"Cr\u00e9dito Hipotecario",RCH0002:"Leasing Habitacional",RVH0001:"Cr\u00e9dito para Veh\u00edculo",RVH0002:"Leasing para Veh\u00edculo",RVH0003:"Cr\u00e9dito para Moto de Alto cilindraje",REC0001:"Cr\u00e9dito para estudiar Corto plazo",
+REC0002:"Cr\u00e9dito para estudiar largo plazo pregrado",REC0003:"Cr\u00e9dito para estudiar largo plazo postgrado",REC0004:"Compra de Cartera Cr\u00e9dito de Consumo",RSG0001:"Seguro Plan Vida total",RSG0002:"Seguro Exequial",RSG0003:"Seguro Cobertura Integral",RCA0001:"Crediagil",RLI0001:"Cr\u00e9dito Libre Inversi\u00f3n",RLB0001:"Libranza"};if(-1<g.indexOf("/personas/solicitud-de-productos")){if(-1<g.indexOf("/detalle-producto")){var a=h(document.querySelector(".productos-tarjetasForm-Info h3").innerText.trim()),
+b={id:a,name:a,brand:a.split(" ")[0],category:h(document.querySelector(".productos-tarjetasForm-Info h4").innerText.trim()),price:1};window.dataLayer.push({event:"detail",product:b});sessionStorage.setItem("ddProduct",JSON.stringify(b));document.cookie="ddProduct\x3d"+JSON.stringify(b)+"; path\x3d/; domain\x3dgrupobancolombia.com";document.querySelector(".btnDetalle .btn.button-primary").addEventListener("click",function(){try{var d=h(document.querySelector(".productos-tarjetasForm-Info h3").innerText.trim());
+window.dataLayer.push({event:"addToCart",products:[{id:d,name:d,brand:d.split(" ")[0],category:h(document.querySelector(".productos-tarjetasForm-Info h4").innerText.trim()),price:1}]})}catch(l){m(l)}})}document.querySelector("body").addEventListener("click",function(d){try{var l=d.target;if(null!=l.closest(".productos-contenido-destacado .btn.button-primary , .btn-secundario-small")){var r=q(l.closest(".productos-contenedor-seccion-1 , .productos-contenido-destacado"));window.dataLayer.push({event:"productClick",
+product:r})}}catch(t){m(t)}})}if("accesodigital.grupobancolombia.com"==document.location.hostname&&void 0!=document.location.href.split("code\x3d")[1]){if(-1<n.indexOf("abreCuenta")){var e=document.location.href.split("code\x3d")[1].split("\x26")[0];a=k[e];var c=a.includes("Cr\u00e9dito")||a.includes("Leasing")||a.includes("Seguro")||a.includes("Crediagil")||a.includes("Libranza")?"Creditos":"Tarjeta de credito",f="Tarjeta de credito"==c?a.split(" ")[0]:a;null!=a&&window.dataLayer.push({event:"checkoutStep",
+step:"1 - "+a,products:[{id:a,name:a,brand:f,category:c,quantity:1,price:1}]})}-1<n.indexOf("requisitosMinimos")&&(e=document.location.href.split("code\x3d")[1].split("\x26")[0],a=k[e],c=a.includes("Cr\u00e9dito")||a.includes("Leasing")||a.includes("Seguro")||a.includes("Crediagil")||a.includes("Libranza")?"Creditos":"Tarjeta de credito",f="Tarjeta de credito"==c?a.split(" ")[0]:a,b={id:a,name:a,brand:f,category:c,quantity:1,price:1},sessionStorage.setItem("ddProduct",JSON.stringify(b)),window.dataLayer.push({event:"checkoutStep",
+step:"2 - "+a,products:[b]}))}if("accesodigital.grupobancolombia.com"==document.location.hostname&&-1<n.indexOf("agradecimiento")){var p=sessionStorage.getItem("ddProduct");b=JSON.parse(p);window.dataLayer.push({event:"purchase",eventLabel:b.name,products:[b]})}if(-1<g.indexOf("/personas/productos-servicios/tarjetas-credito/referido-tarjeta-credito")||-1<g.indexOf("/personas/creditos/"))sessionStorage.getItem("ddProduct")?(p=sessionStorage.getItem("ddProduct"),b=JSON.parse(p),b.quantity="1",window.dataLayer.push({event:"checkoutStep",
+products:[b],step:"2 - "+b.name})):(e=document.location.href.split("code\x3d")[1].split("\x26")[0],a=k[e],c=a.includes("Cr\u00e9dito")||a.includes("Leasing")||a.includes("Seguro")||a.includes("Crediagil")||a.includes("Libranza")?"Creditos":"Tarjeta de credito",f="Tarjeta de credito"==c?a.split(" ")[0]:a,b={id:a,name:a,brand:f,category:c,quantity:1,price:1},sessionStorage.setItem("ddProduct",JSON.stringify(b)),window.dataLayer.push({event:"checkoutStep",step:"2 - "+a,products:[b]}));-1<g.indexOf("/personas/productos-servicios/creditos/consumo/")&&
+(e=document.location.href.split("code\x3d")[1].split("\x26")[0],a=k[e],c=a.includes("Cr\u00e9dito")||a.includes("Leasing")||a.includes("Seguro")||a.includes("Crediagil")||a.includes("Libranza")?"Creditos":"Tarjeta de credito",f="Tarjeta de credito"==c?a.split(" ")[0]:a,null!=a&&(b={id:a,name:a,brand:f,category:c,quantity:1,price:1},sessionStorage.setItem("ddProduct",JSON.stringify(b)),window.dataLayer.push({event:"checkoutStep",step:"2 - "+a,products:[b]})))}catch(d){m(d)}})();</script><script type="text/javascript" id="">(function(){for(var c=document.querySelectorAll('[name\x3d"comboPlan"], [name\x3d"comboPlazoMes"], [name\x3d"comboTipoSimulacion"], [name\x3d"comboTipoTasa"], [name\x3d"combotipoFinanciacion"], [name\x3d"comboDestinoCredito"],[name\x3d"comboOpcionSimular"],[name\x3d"comboPlanAmortizacion"],[name\x3d"comboDeptoColomnbia"],[name\x3d"comboDeptoColomnbia"],[name\x3d"comboTipoProducto"]'),d=c.length,e=function(a){a=a.target.options[a.target.selectedIndex];window.dataLayer.push({event:"selectionMade",selectedElement:a})},
+b=0;b<d;b+=1)c[b].addEventListener("change",e,!0)})();</script><script type="text/javascript" id="" src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.9-1/crypto-js.min.js"></script><div class="cdk-live-announcer-element cdk-visually-hidden" aria-atomic="true" aria-live="polite"></div><script src="https://analytics.twitter.com/i/adsct?type=javascript&amp;version=2.0.4&amp;p_id=Twitter&amp;p_user_id=0&amp;txn_id=nvl9j&amp;events=%5B%5B%22pageview%22%2Cnull%5D%5D&amp;tw_sale_amount=0&amp;tw_order_quantity=0&amp;tw_iframe_status=0&amp;event_id=d98679e0-d0bf-4297-b2de-8e661099af49&amp;tw_document_href=https%3A%2F%2Fwww.bancolombia.com%2Fpersonas%2Fcreditos%2Fvivienda%2Fsimulador-credito-vivienda&amp;tpx_cb=twttr.conversion.loadPixels" type="text/javascript"></script><iframe name="_hjRemoteVarsFrame" title="_hjRemoteVarsFrame" id="_hjRemoteVarsFrame" src="https://vars.hotjar.com/box-acca23410e696f2ca3087d947271c3d0.html" style="display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;"></iframe><script type="text/javascript" id="">(function(){try{var c="UI :: Simulador vivienda",e=google_tag_manager["GTM-PS6GSZT"].macro(85),b=google_tag_manager["GTM-PS6GSZT"].macro(88);$("#layoutContainers").click(function(d){try{var a=$(d.target);a.closest("#calcular-cuotas , #cuanto-prestar").length?b(c,"Opci\u00f3n de simulaci\u00f3n",a.closest("#calcular-cuotas , #cuanto-prestar").find("h5").text()||a.find("h5").text()):a.closest(".first-render #boton-simular").length?b(c,"Simular - Bot\u00f3n principal",$("#valor-year").val()+" - "+$("#elegir-porcentaje").text().trim(),$("#valor-simulacion").val()):
+a.closest("#punto-atencion , #claro-chat , #claro-dejanos-llamarte , #claro-llamanos").length?b("UI :: Servicio al cliente","Clic",a.closest(".menu_item").find("p").text()||a.find("p").text()):a.closest(".header-simulador_logo img , boton-atras-simulador , boton-salir-simulador").length?b(c,a.text().trim(),document.location.pathname):a.closest(".simulation-result #boton-simular").length?b(c,"Simular - Bot\u00f3n secundario",$("#valor-year").val()+" - "+$("#elegir-porcentaje").text(),$("#valor-simulacion").val()):
+a.closest("#credit-on-pesos , #credit-on-UVR").length?b(c,"Men\u00fa Tab",a.text().trim()):a.closest("#boton-FIXEDFEECOP , #boton-CONSTANTAMORTIZATIONUVR , #boton-CONSTANTFEEUVR").length?b(c,"Solicitar cr\u00e9dito","Tipo de cr\u00e9dito - "+a.closest(".card-resul-containter").find("h6").text().trim()):a.closest(".card-info-credit a").length&&b(c,"Clic",a.text().trim())}catch(f){e(f)}})}catch(d){e(d)}})();</script><script type="text/javascript" id="">(function(){var c=google_tag_manager["GTM-PS6GSZT"].macro(91),e=google_tag_manager["GTM-PS6GSZT"].macro(93);try{var d="UI :: "+$('*[class*\x3d"titulo"]').first().text().trim();$("body").on("click","#menu-sticky a, #banner a:visible",function(a){if($(a.target).is("#banner a:visible")){var b=$("#banner").find('*[class*\x3d"titulo"]').text().trim();window.dataLayer.push({event:"productClick",currencyCode:"COP",eventLabel:b,product:{name:b,price:"1",list:"Creditos :: "+b,id:b,brand:b,category:"Creditos"}});window.dataLayer.push({event:"addToCart"})}c(d,
+"Banner",$(a.target).text().trim())});$("body").on("click",'div[id*\x3d"swipper-btn"]',function(a){a=$(a.target).is("#swipper-btn-prev-completo")?"Izquierda":"Derecha";c(d,"Beneficios",a)});$("body").on("click",".accordion-link, .tab-item",function(a){if($(a.target).closest("#asistencias").length){var b="Seguros";a="Expandir :: "+$(a.target).text().trim()}else $(a.target).closest("#tasas2").length?(b="Tasas y tarifas",a="Consultar tarifario"):(b="Documentos",a="Expandir");c(d,b,a)});$("body").on("click",
+".lista-bullets li, .tab-item",function(a){var b=$(a.target).is(".lista-bullets li")?"Documentos":"Tasas y tarifas";c(d,b,$(a.target).text().trim())});$("body").on("click",".thumbnail",function(a){c(d,"Simula y compara","Simula las cuotas")})}catch(a){e(a)}})();</script><script type="text/javascript" id="">var dataLayer=window.dataLayer=window.dataLayer||[],bk_results=bk_results;if(0!=bk_results.campaigns.length)for(var i=0;i<bk_results.campaigns.length;i++)DY.API("event",{name:"Audience_DMP",properties:{audience_bluekai:bk_results.campaigns[i].campaign}});</script></body></html>
