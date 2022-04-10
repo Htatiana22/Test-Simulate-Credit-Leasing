@@ -26,16 +26,15 @@ public class CompleteForm implements Task {
     @Override
     public <T extends Actor> void performAs(T actor) {
         actor.attemptsTo(
-                Enter.theValue(simulateCreditData.get(0).getStrHomeMarketValue()).into(INPUT_HOME_MARKET_VALUE),
+                Enter.theValue(simulateCreditData.get(0).getHomeMarketValue()).into(INPUT_HOME_MARKET_VALUE),
                 Click.on(INPUT_CHOOSE_PERCENTAGE),
                 Click.on(SELECT_CHOOSE_PERCENTAGE),
-                Enter.theValue(simulateCreditData.get(0).getStrHowManyYears()).into(INPUT_HOW_MANY_YEARS),
+                Enter.theValue(simulateCreditData.get(0).getHowManyYears()).into(INPUT_HOW_MANY_YEARS),
                 Click.on(INPUT_BIRTHDAY),
                 Click.on(INPUT_BIRTHDAY_YEAR),
                 Click.on(INPUT_BIRTHDAY_MONTH),
                 Click.on(INPUT_BIRTHDAY_DAY),
                 Click.on(BUTTON_SIMULATE)
         );
-
     }
 }

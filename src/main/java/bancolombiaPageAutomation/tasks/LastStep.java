@@ -21,6 +21,5 @@ public class LastStep implements Task {
                 Click.on(BUTTON_RESIDENTIAL_LEASING),
                 Click.on(SELECT_RATES_AND_FEES)
         );
-
     }
 }

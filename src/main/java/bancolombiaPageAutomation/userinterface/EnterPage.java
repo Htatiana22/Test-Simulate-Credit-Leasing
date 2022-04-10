@@ -6,6 +6,7 @@ import net.thucydides.core.annotations.DefaultUrl;
 import org.openqa.selenium.By;
 
 @DefaultUrl("https://www.bancolombia.com/personas")
+
 public class EnterPage extends PageObject {
 
     public static final Target BUTTON_GO_TO_HOME_PAGE = Target.the("Click on the button to go to the main page")

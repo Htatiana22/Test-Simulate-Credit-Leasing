@@ -6,8 +6,8 @@ import net.serenitybdd.cucumber.CucumberWithSerenity;
 import org.junit.runner.RunWith;
 
 @RunWith(CucumberWithSerenity.class)
-@CucumberOptions(features = "src/test/resources/features/simulationBancolombia.feature",
-        tags = "@Stories",
+@CucumberOptions(features = "src/test/resources/features/simulateCredit.feature",
+        tags = "@UserStory",
         glue = "bancolombiaPageAutomation.stepdefinitions",
         snippets = SnippetType.CAMELCASE)
 

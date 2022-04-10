@@ -2,25 +2,9 @@ package bancolombiaPageAutomation.model;
 
 public class SimulateCreditData {
 
-    private String strHomeMarketValue;
-    private String strHowManyYears;
+    private String homeMarketValue;
+    private String howManyYears;
     private String strCheckSimulation;
-
-    public String getStrHowManyYears() {
-        return strHowManyYears;
-    }
-
-    public void setStrHowManyYears(String strHowManyYears) {
-        this.strHowManyYears = strHowManyYears;
-    }
-
-    public String getStrHomeMarketValue() {
-        return strHomeMarketValue;
-    }
-
-    public void setStrHomeMarketValue(String strHomeMarketValue) {
-        this.strHomeMarketValue = strHomeMarketValue;
-    }
 
     public String getStrCheckSimulation() {
         return strCheckSimulation;
@@ -29,4 +13,21 @@ public class SimulateCreditData {
     public void setStrCheckSimulation(String strCheckSimulation) {
         this.strCheckSimulation = strCheckSimulation;
     }
+
+    public String getHomeMarketValue() {
+        return homeMarketValue;
+    }
+
+    public void setHomeMarketValue(String homeMarketValue) {
+        this.homeMarketValue = homeMarketValue;
+    }
+
+    public String getHowManyYears() {
+        return howManyYears;
+    }
+
+    public void setHowManyYears(String howManyYears) {
+        this.howManyYears = howManyYears;
+    }
+
 }
