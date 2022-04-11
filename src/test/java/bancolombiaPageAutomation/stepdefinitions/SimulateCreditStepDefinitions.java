@@ -19,8 +19,6 @@ import java.util.List;
 
 import static net.serenitybdd.screenplay.actors.OnStage.theActorInTheSpotlight;
 
-//import bancolombiaPageAutomation.questions.VerifyResult;
-
 public class SimulateCreditStepDefinitions {
     @Before
     public void setStage () {
@@ -47,10 +45,6 @@ public class SimulateCreditStepDefinitions {
     public void user_selects_the_option_leasing_Habicacional()  {
         theActorInTheSpotlight().attemptsTo(LastStep.toEnd());
     }
-
-   // @Then("^user verifies the result of the simulation was successful$")
-   // public void userVerifiesTheResultOfTheSimulationWasSuccessful(List<SimulateCreditData> simulateCreditData) {
-     //   OnStage.theActorInTheSpotlight().should(GivenWhenThen.seeThat(Answer.verify(simulateCreditData)));}
 
     @Then("^user verifies the result of the simulation was successful$")
     public void userVerifiesTheResultOfTheSimulationWasSuccessful(List<SimulateCreditData> simulateCreditData) {

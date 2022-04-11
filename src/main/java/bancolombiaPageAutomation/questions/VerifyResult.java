@@ -23,7 +23,7 @@ public class VerifyResult implements Question {
 
     @Override
     public Object answeredBy(Actor actor) {
-        System.out.printf(SimulationResult.FIXED_FEE.resolveFor(actor).getText() + FeeValueResult.getTextCreditResult());
-        return Text.of(SimulationResult.FIXED_FEE).viewedBy(actor).asString();
+        System.out.printf(SimulationResult.FIXED_FEE_TITLE.resolveFor(actor).getText() + FeeValueResult.getTextCreditResult());
+        return Text.of(SimulationResult.FIXED_FEE_TITLE).viewedBy(actor).asString();
     }
 }

@@ -8,6 +8,7 @@ import org.junit.runner.RunWith;
 @RunWith(CucumberWithSerenity.class)
 @CucumberOptions(features = "src/test/resources/features/simulateCredit.feature",
         tags = "@UserStory",
+        //tags = "@scenario1",
         glue = "bancolombiaPageAutomation.stepdefinitions",
         snippets = SnippetType.CAMELCASE)
 

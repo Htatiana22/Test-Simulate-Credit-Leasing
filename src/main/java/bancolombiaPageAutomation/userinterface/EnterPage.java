@@ -26,6 +26,4 @@ public class EnterPage extends PageObject {
 
     public static final Target BUTTON_HOME_VALUE = Target.the("Click on the option according to the value of the house")
             .located(By.id("calcular-cuotas"));
-
-
 }

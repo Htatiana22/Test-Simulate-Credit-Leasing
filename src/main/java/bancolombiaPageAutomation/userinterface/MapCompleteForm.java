@@ -32,8 +32,4 @@ public class MapCompleteForm extends Object{
     public static final Target BUTTON_SIMULATE = Target.the("Click on the simulate button")
             .located(By.id("boton-simular"));
 
-    public static final Target BUTTON_SIMULATE2 = Target.the("Click on the simulate button")
-            .locatedBy(("#mat-expansion-panel-header-3"));
-
-
 }

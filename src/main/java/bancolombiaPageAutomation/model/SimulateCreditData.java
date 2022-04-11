@@ -5,6 +5,7 @@ public class SimulateCreditData {
     private String homeMarketValue;
     private String howManyYears;
     private String strCheckSimulation;
+    private String errorMessage;
 
     public String getStrCheckSimulation() {
         return strCheckSimulation;
@@ -30,4 +31,11 @@ public class SimulateCreditData {
         this.howManyYears = howManyYears;
     }
 
+    public String getErrorMessage() {
+        return errorMessage;
+    }
+
+    public void setErrorMessage(String errorMessage) {
+        this.errorMessage = errorMessage;
+    }
 }

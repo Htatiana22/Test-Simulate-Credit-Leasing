@@ -23,13 +23,13 @@
 <tr>
 <td>
 <div class="infoBox" id="tests">
-<div class="counter">1</div>
+<div class="counter">2</div>
 <p>tests</p>
 </div>
 </td>
 <td>
 <div class="infoBox" id="failures">
-<div class="counter">1</div>
+<div class="counter">0</div>
 <p>failures</p>
 </div>
 </td>
@@ -41,7 +41,7 @@
 </td>
 <td>
 <div class="infoBox" id="duration">
-<div class="counter">33.599s</div>
+<div class="counter">54.209s</div>
 <p>duration</p>
 </div>
 </td>
@@ -50,8 +50,8 @@
 </div>
 </td>
 <td>
-<div class="infoBox failures" id="successRate">
-<div class="percent">0%</div>
+<div class="infoBox success" id="successRate">
+<div class="percent">100%</div>
 <p>successful</p>
 </div>
 </td>
@@ -61,195 +61,16 @@
 <div id="tabs">
 <ul class="tabLinks">
 <li>
-<a href="#tab0">Failed tests</a>
+<a href="#tab0">Tests</a>
 </li>
 <li>
-<a href="#tab1">Tests</a>
+<a href="#tab1">Standard output</a>
 </li>
 <li>
 <a href="#tab2">Standard error</a>
 </li>
 </ul>
 <div id="tab0" class="tab">
-<h2>Failed tests</h2>
-<div class="test">
-<a name="Verify the result of the simulation of a home loan"></a>
-<h3 class="failures">Verify the result of the simulation of a home loan</h3>
-<span class="code">
-<pre>net.thucydides.core.webdriver.exceptions.ElementShouldBeEnabledException: Expected enabled element was not enabled
-	at net.serenitybdd.core.pages.WebElementFacadeImpl.waitUntilEnabled(WebElementFacadeImpl.java:1149)
-	at net.serenitybdd.core.pages.WebElementFacadeImpl.waitUntilElementAvailable(WebElementFacadeImpl.java:954)
-	at net.serenitybdd.core.pages.WebElementFacadeImpl.click(WebElementFacadeImpl.java:1229)
-	at net.serenitybdd.screenplay.actions.ClickOnTarget.performAs(ClickOnTarget.java:13)
-	at net.serenitybdd.screenplay.actions.ClickOnTarget$ByteBuddy$Cuds8EVN.performAs$accessor$hntEshTu(Unknown Source)
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-	at java.lang.reflect.Method.invoke(Method.java:498)
-	at net.thucydides.core.steps.StepInterceptor.invokeMethod(StepInterceptor.java:471)
-	at net.thucydides.core.steps.StepInterceptor.executeTestStepMethod(StepInterceptor.java:451)
-	at net.thucydides.core.steps.StepInterceptor.runTestStep(StepInterceptor.java:424)
-	at net.thucydides.core.steps.StepInterceptor.runOrSkipMethod(StepInterceptor.java:180)
-	at net.thucydides.core.steps.StepInterceptor.testStepResult(StepInterceptor.java:167)
-	at net.thucydides.core.steps.StepInterceptor.intercept(StepInterceptor.java:75)
-	at net.serenitybdd.screenplay.actions.ClickOnTarget$ByteBuddy$Cuds8EVN.performAs(Unknown Source)
-	at net.serenitybdd.screenplay.Actor.performTask(Actor.java:233)
-	at net.serenitybdd.screenplay.Actor.perform(Actor.java:214)
-	at net.serenitybdd.screenplay.Actor.attemptsTo(Actor.java:171)
-	at bancolombiaPageAutomation.tasks.SelectingOptions.performAs(SelectingOptions.java:21)
-	at bancolombiaPageAutomation.tasks.SelectingOptions$ByteBuddy$C8VYmycJ.performAs$accessor$SZaGh3CI(Unknown Source)
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-	at java.lang.reflect.Method.invoke(Method.java:498)
-	at net.thucydides.core.steps.StepInterceptor.invokeMethod(StepInterceptor.java:471)
-	at net.thucydides.core.steps.StepInterceptor.executeTestStepMethod(StepInterceptor.java:451)
-	at net.thucydides.core.steps.StepInterceptor.runTestStep(StepInterceptor.java:424)
-	at net.thucydides.core.steps.StepInterceptor.runOrSkipMethod(StepInterceptor.java:180)
-	at net.thucydides.core.steps.StepInterceptor.testStepResult(StepInterceptor.java:167)
-	at net.thucydides.core.steps.StepInterceptor.intercept(StepInterceptor.java:75)
-	at bancolombiaPageAutomation.tasks.SelectingOptions$ByteBuddy$C8VYmycJ.performAs(Unknown Source)
-	at net.serenitybdd.screenplay.Actor.performTask(Actor.java:233)
-	at net.serenitybdd.screenplay.Actor.perform(Actor.java:214)
-	at net.serenitybdd.screenplay.Actor.attemptsTo(Actor.java:171)
-	at bancolombiaPageAutomation.stepdefinitions.SimulateCreditStepDefinitions.user_selects_options_Productos_y_Servicios_Leasing_Simula_Segun_valor_vivienda(SimulateCreditStepDefinitions.java:38)
-	at ✽.user selects options 'Productos y Servicios - Leasing - Simula - Segun valor vivienda'(src/test/resources/features/simulateCredit.feature:10)
-Caused by: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for By.id: calcular-cuotas to be enabled (tried for 5 second(s) with 100 milliseconds interval)
-	at org.openqa.selenium.support.ui.FluentWait.timeoutException(FluentWait.java:304)
-	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
-	at net.serenitybdd.core.pages.WebElementFacadeImpl.waitUntilEnabled(WebElementFacadeImpl.java:1146)
-	at net.serenitybdd.core.pages.WebElementFacadeImpl.waitUntilElementAvailable(WebElementFacadeImpl.java:954)
-	at net.serenitybdd.core.pages.WebElementFacadeImpl.click(WebElementFacadeImpl.java:1229)
-	at net.serenitybdd.screenplay.actions.ClickOnTarget.performAs(ClickOnTarget.java:13)
-	at net.serenitybdd.screenplay.actions.ClickOnTarget$ByteBuddy$Cuds8EVN.performAs$accessor$hntEshTu(Unknown Source)
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-	at java.lang.reflect.Method.invoke(Method.java:498)
-	at net.thucydides.core.steps.StepInterceptor.invokeMethod(StepInterceptor.java:471)
-	at net.thucydides.core.steps.StepInterceptor.executeTestStepMethod(StepInterceptor.java:451)
-	at net.thucydides.core.steps.StepInterceptor.runTestStep(StepInterceptor.java:424)
-	at net.thucydides.core.steps.StepInterceptor.runOrSkipMethod(StepInterceptor.java:180)
-	at net.thucydides.core.steps.StepInterceptor.testStepResult(StepInterceptor.java:167)
-	at net.thucydides.core.steps.StepInterceptor.intercept(StepInterceptor.java:75)
-	at net.serenitybdd.screenplay.actions.ClickOnTarget$ByteBuddy$Cuds8EVN.performAs(Unknown Source)
-	at net.serenitybdd.screenplay.Actor.performTask(Actor.java:233)
-	at net.serenitybdd.screenplay.Actor.perform(Actor.java:214)
-	at net.serenitybdd.screenplay.Actor.attemptsTo(Actor.java:171)
-	at bancolombiaPageAutomation.tasks.SelectingOptions.performAs(SelectingOptions.java:21)
-	at bancolombiaPageAutomation.tasks.SelectingOptions$ByteBuddy$C8VYmycJ.performAs$accessor$SZaGh3CI(Unknown Source)
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-	at java.lang.reflect.Method.invoke(Method.java:498)
-	at net.thucydides.core.steps.StepInterceptor.invokeMethod(StepInterceptor.java:471)
-	at net.thucydides.core.steps.StepInterceptor.executeTestStepMethod(StepInterceptor.java:451)
-	at net.thucydides.core.steps.StepInterceptor.runTestStep(StepInterceptor.java:424)
-	at net.thucydides.core.steps.StepInterceptor.runOrSkipMethod(StepInterceptor.java:180)
-	at net.thucydides.core.steps.StepInterceptor.testStepResult(StepInterceptor.java:167)
-	at net.thucydides.core.steps.StepInterceptor.intercept(StepInterceptor.java:75)
-	at bancolombiaPageAutomation.tasks.SelectingOptions$ByteBuddy$C8VYmycJ.performAs(Unknown Source)
-	at net.serenitybdd.screenplay.Actor.performTask(Actor.java:233)
-	at net.serenitybdd.screenplay.Actor.perform(Actor.java:214)
-	at net.serenitybdd.screenplay.Actor.attemptsTo(Actor.java:171)
-	at bancolombiaPageAutomation.stepdefinitions.SimulateCreditStepDefinitions.user_selects_options_Productos_y_Servicios_Leasing_Simula_Segun_valor_vivienda(SimulateCreditStepDefinitions.java:38)
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-	at java.lang.reflect.Method.invoke(Method.java:498)
-	at cucumber.runtime.Utils$1.call(Utils.java:31)
-	at cucumber.runtime.Timeout.timeout(Timeout.java:16)
-	at cucumber.runtime.Utils.invoke(Utils.java:25)
-	at cucumber.runtime.java.JavaStepDefinition.execute(JavaStepDefinition.java:37)
-	at cucumber.runtime.StepDefinitionMatch.runStep(StepDefinitionMatch.java:40)
-	at cucumber.api.TestStep.executeStep(TestStep.java:102)
-	at cucumber.api.TestStep.run(TestStep.java:83)
-	at cucumber.api.TestCase.run(TestCase.java:58)
-	at cucumber.runner.Runner.runPickle(Runner.java:80)
-	at cucumber.runtime.junit.PickleRunners$NoStepDescriptions.run(PickleRunners.java:140)
-	at cucumber.runtime.junit.FeatureRunner.runChild(FeatureRunner.java:68)
-	at cucumber.runtime.junit.FeatureRunner.runChild(FeatureRunner.java:23)
-	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
-	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
-	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
-	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
-	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
-	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
-	at cucumber.runtime.junit.FeatureRunner.run(FeatureRunner.java:73)
-	at cucumber.api.junit.Cucumber.runChild(Cucumber.java:118)
-	at cucumber.api.junit.Cucumber.runChild(Cucumber.java:56)
-	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:290)
-	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:71)
-	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:288)
-	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:58)
-	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:268)
-	at cucumber.api.junit.Cucumber$1.evaluate(Cucumber.java:127)
-	at org.junit.runners.ParentRunner.run(ParentRunner.java:363)
-	at org.gradle.api.internal.tasks.testing.junit.JUnitTestClassExecutor.runTestClass(JUnitTestClassExecutor.java:110)
-	at org.gradle.api.internal.tasks.testing.junit.JUnitTestClassExecutor.execute(JUnitTestClassExecutor.java:58)
-	at org.gradle.api.internal.tasks.testing.junit.JUnitTestClassExecutor.execute(JUnitTestClassExecutor.java:38)
-	at org.gradle.api.internal.tasks.testing.junit.AbstractJUnitTestClassProcessor.processTestClass(AbstractJUnitTestClassProcessor.java:62)
-	at org.gradle.api.internal.tasks.testing.SuiteTestClassProcessor.processTestClass(SuiteTestClassProcessor.java:51)
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-	at java.lang.reflect.Method.invoke(Method.java:498)
-	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:36)
-	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:24)
-	at org.gradle.internal.dispatch.ContextClassLoaderDispatch.dispatch(ContextClassLoaderDispatch.java:33)
-	at org.gradle.internal.dispatch.ProxyDispatchAdapter$DispatchingInvocationHandler.invoke(ProxyDispatchAdapter.java:94)
-	at com.sun.proxy.$Proxy2.processTestClass(Unknown Source)
-	at org.gradle.api.internal.tasks.testing.worker.TestWorker.processTestClass(TestWorker.java:121)
-	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
-	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-	at java.lang.reflect.Method.invoke(Method.java:498)
-	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:36)
-	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:24)
-	at org.gradle.internal.remote.internal.hub.MessageHubBackedObjectConnection$DispatchWrapper.dispatch(MessageHubBackedObjectConnection.java:182)
-	at org.gradle.internal.remote.internal.hub.MessageHubBackedObjectConnection$DispatchWrapper.dispatch(MessageHubBackedObjectConnection.java:164)
-	at org.gradle.internal.remote.internal.hub.MessageHub$Handler.run(MessageHub.java:414)
-	at org.gradle.internal.concurrent.ExecutorPolicy$CatchAndRecordFailures.onExecute(ExecutorPolicy.java:64)
-	at org.gradle.internal.concurrent.ManagedExecutorImpl$1.run(ManagedExecutorImpl.java:48)
-	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
-	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
-	at org.gradle.internal.concurrent.ThreadFactoryImpl$ManagedThreadRunnable.run(ThreadFactoryImpl.java:56)
-	at java.lang.Thread.run(Thread.java:750)
-Caused by: org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;css selector&quot;,&quot;selector&quot;:&quot;#calcular\-cuotas&quot;}
-  (Session info: chrome=100.0.4896.75)
-For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
-Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
-System info: host: 'CHMEPC279RF3', ip: '192.168.1.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_322'
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 100.0.4896.75, chrome: {chromedriverVersion: 100.0.4896.60 (6a5d10861ce8..., userDataDir: C:\Users\hreyesp\AppData\Lo...}, goog:chromeOptions: {debuggerAddress: localhost:51258}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: 88571bc48ac575cdeeaa089c060bfc50
-*** Element info: {Using=id, value=calcular-cuotas}
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
-	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
-	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
-	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
-	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:372)
-	at org.openqa.selenium.By$ById.findElement(By.java:188)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
-	at net.thucydides.core.webdriver.WebDriverFacade.findElement(WebDriverFacade.java:222)
-	at net.serenitybdd.core.pages.WebElementResolverByLocator.resolveForDriver(WebElementResolverByLocator.java:18)
-	at net.serenitybdd.core.pages.WebElementFacadeImpl.getElement(WebElementFacadeImpl.java:221)
-	at net.serenitybdd.core.pages.WebElementExpectations$3.apply(WebElementExpectations.java:63)
-	at net.serenitybdd.core.pages.WebElementExpectations$3.apply(WebElementExpectations.java:55)
-	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
-	... 98 more
-</pre>
-</span>
-</div>
-</div>
-<div id="tab1" class="tab">
 <h2>Tests</h2>
 <table>
 <thead>
@@ -260,74 +81,272 @@ Session ID: 88571bc48ac575cdeeaa089c060bfc50
 </tr>
 </thead>
 <tr>
-<td class="failures">Verify the result of the simulation of a home loan</td>
-<td class="failures">33.599s</td>
-<td class="failures">failed</td>
+<td class="success">Verify the result of the simulation of a home loan</td>
+<td class="success">29.872s</td>
+<td class="success">passed</td>
+</tr>
+<tr>
+<td class="success">Verify the result of the simulation of a housing loan with erroneous data</td>
+<td class="success">24.337s</td>
+<td class="success">passed</td>
 </tr>
 </table>
+</div>
+<div id="tab1" class="tab">
+<h2>Standard output</h2>
+<span class="code">
+<pre>Cuota fija en pesos$ 1.707.295</pre>
+</span>
 </div>
 <div id="tab2" class="tab">
 <h2>Standard error</h2>
 <span class="code">
-<pre>[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@6727a5ac
-[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@d3098b1
-[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@21549219
-abr 10, 2022 1:08:34 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+<pre>[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@51face4e
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@645714e2
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@f32f3d8
+abr 10, 2022 11:29:00 PM org.openqa.selenium.remote.DesiredCapabilities chrome
 INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
 [Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Instantiating driver
 [Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, browserName: chrome, chrome.switches: --start-maximized, goog:chromeOptions: {args: [--start-maximized], extensions: []}, loggingPrefs: org.openqa.selenium.logging..., platform: ANY, version: }
-Starting ChromeDriver 100.0.4896.60 (6a5d10861ce8de5fce22564658033b43cb7de047-refs/branch-heads/4896@{#875}) on port 5173
+Starting ChromeDriver 100.0.4896.60 (6a5d10861ce8de5fce22564658033b43cb7de047-refs/branch-heads/4896@{#875}) on port 12724
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-abr 10, 2022 1:08:36 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+abr 10, 2022 11:29:03 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFORMACIÓN: Detected dialect: W3C
 [Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Verify the result of the simulation of a home loan:Given user enters the bancolombia's page [Herika start [Herika opens the Enter page]]
-[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@538ba317
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@298a6c24
 [Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Verify the result of the simulation of a home loan:Given user enters the bancolombia's page [Herika start [Herika opens the Enter page, Herika clicks on Click on the button to go to the main page]]
 [Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Verify the result of the simulation of a home loan:Given user enters the bancolombia's page [Herika start [Herika opens the Enter page, Herika clicks on Click on the button to go to the main page]]
 [Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Verify the result of the simulation of a home loan:Given user enters the bancolombia's page [Herika start [Herika opens the Enter page, Herika clicks on Click on the button to go to the main page]]
-[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@19483cf
-[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@2ccf52ee
-[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@419553a9
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@62e08da3
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@40185747
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@1f5818ae
 [Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Verify the result of the simulation of a home loan:Given user enters the bancolombia's page [Herika start [Herika opens the Enter page, Herika clicks on Click on the button to go to the main page]], And user selects options 'Productos y Servicios - Leasing - Simula - Segun valor vivienda' [Herika selecting options [Herika clicks on Click on the products and services option]]
-[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@543a250c
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@7df549e4
 [Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Verify the result of the simulation of a home loan:Given user enters the bancolombia's page [Herika start [Herika opens the Enter page, Herika clicks on Click on the button to go to the main page]], And user selects options 'Productos y Servicios - Leasing - Simula - Segun valor vivienda' [Herika selecting options [Herika clicks on Click on the products and services option, Herika clicks on Click on the leasing option]]
-[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@17bb3c9
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@35d231d0
 [Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Verify the result of the simulation of a home loan:Given user enters the bancolombia's page [Herika start [Herika opens the Enter page, Herika clicks on Click on the button to go to the main page]], And user selects options 'Productos y Servicios - Leasing - Simula - Segun valor vivienda' [Herika selecting options [Herika clicks on Click on the products and services option, Herika clicks on Click on the leasing option, Herika clicks on Select the residential leasing option]]
-[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@11dd2b9f
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@2d99f8a5
 [Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Verify the result of the simulation of a home loan:Given user enters the bancolombia's page [Herika start [Herika opens the Enter page, Herika clicks on Click on the button to go to the main page]], And user selects options 'Productos y Servicios - Leasing - Simula - Segun valor vivienda' [Herika selecting options [Herika clicks on Click on the products and services option, Herika clicks on Click on the leasing option, Herika clicks on Select the residential leasing option, Herika clicks on Select the simulate option]]
-[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@2c13e9d
-[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@576d3aa3
-[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@62c4e2dd
-[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@70c0527d
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@3d2dd592
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Verify the result of the simulation of a home loan:Given user enters the bancolombia's page [Herika start [Herika opens the Enter page, Herika clicks on Click on the button to go to the main page]], And user selects options 'Productos y Servicios - Leasing - Simula - Segun valor vivienda' [Herika selecting options [Herika clicks on Click on the products and services option, Herika clicks on Click on the leasing option, Herika clicks on Select the residential leasing option, Herika clicks on Select the simulate option, Herika clicks on Click on the option according to the value of the house]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Verify the result of the simulation of a home loan:Given user enters the bancolombia's page [Herika start [Herika opens the Enter page, Herika clicks on Click on the button to go to the main page]], And user selects options 'Productos y Servicios - Leasing - Simula - Segun valor vivienda' [Herika selecting options [Herika clicks on Click on the products and services option, Herika clicks on Click on the leasing option, Herika clicks on Select the residential leasing option, Herika clicks on Select the simulate option, Herika clicks on Click on the option according to the value of the house]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Verify the result of the simulation of a home loan:Given user enters the bancolombia's page [Herika start [Herika opens the Enter page, Herika clicks on Click on the button to go to the main page]], And user selects options 'Productos y Servicios - Leasing - Simula - Segun valor vivienda' [Herika selecting options [Herika clicks on Click on the products and services option, Herika clicks on Click on the leasing option, Herika clicks on Select the residential leasing option, Herika clicks on Select the simulate option, Herika clicks on Click on the option according to the value of the house]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@7186a4cf
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@77f24c6
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@775d58da
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Verify the result of the simulation of a home loan:Given user enters the bancolombia's page [Herika start [Herika opens the Enter page, Herika clicks on Click on the button to go to the main page]], And user selects options 'Productos y Servicios - Leasing - Simula - Segun valor vivienda' [Herika selecting options [Herika clicks on Click on the products and services option, Herika clicks on Click on the leasing option, Herika clicks on Select the residential leasing option, Herika clicks on Select the simulate option, Herika clicks on Click on the option according to the value of the house]], When user enters the requested data to continue
+| homeMarketValue | howManyYears |
+| 170000000 | 11 | [Herika complete form [Herika enters '170000000' into Enter home market value]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@5f16682f
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Verify the result of the simulation of a home loan:Given user enters the bancolombia's page [Herika start [Herika opens the Enter page, Herika clicks on Click on the button to go to the main page]], And user selects options 'Productos y Servicios - Leasing - Simula - Segun valor vivienda' [Herika selecting options [Herika clicks on Click on the products and services option, Herika clicks on Click on the leasing option, Herika clicks on Select the residential leasing option, Herika clicks on Select the simulate option, Herika clicks on Click on the option according to the value of the house]], When user enters the requested data to continue
+| homeMarketValue | howManyYears |
+| 170000000 | 11 | [Herika complete form [Herika enters '170000000' into Enter home market value, Herika clicks on Choose percentage]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@23c73e0a
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Verify the result of the simulation of a home loan:Given user enters the bancolombia's page [Herika start [Herika opens the Enter page, Herika clicks on Click on the button to go to the main page]], And user selects options 'Productos y Servicios - Leasing - Simula - Segun valor vivienda' [Herika selecting options [Herika clicks on Click on the products and services option, Herika clicks on Click on the leasing option, Herika clicks on Select the residential leasing option, Herika clicks on Select the simulate option, Herika clicks on Click on the option according to the value of the house]], When user enters the requested data to continue
+| homeMarketValue | howManyYears |
+| 170000000 | 11 | [Herika complete form [Herika enters '170000000' into Enter home market value, Herika clicks on Choose percentage, Herika clicks on Select percentage value]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@18a1fa0d
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Verify the result of the simulation of a home loan:Given user enters the bancolombia's page [Herika start [Herika opens the Enter page, Herika clicks on Click on the button to go to the main page]], And user selects options 'Productos y Servicios - Leasing - Simula - Segun valor vivienda' [Herika selecting options [Herika clicks on Click on the products and services option, Herika clicks on Click on the leasing option, Herika clicks on Select the residential leasing option, Herika clicks on Select the simulate option, Herika clicks on Click on the option according to the value of the house]], When user enters the requested data to continue
+| homeMarketValue | howManyYears |
+| 170000000 | 11 | [Herika complete form [Herika enters '170000000' into Enter home market value, Herika clicks on Choose percentage, Herika clicks on Select percentage value, Herika enters '11' into Write how many years]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@7e35ea6e
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Verify the result of the simulation of a home loan:Given user enters the bancolombia's page [Herika start [Herika opens the Enter page, Herika clicks on Click on the button to go to the main page]], And user selects options 'Productos y Servicios - Leasing - Simula - Segun valor vivienda' [Herika selecting options [Herika clicks on Click on the products and services option, Herika clicks on Click on the leasing option, Herika clicks on Select the residential leasing option, Herika clicks on Select the simulate option, Herika clicks on Click on the option according to the value of the house]], When user enters the requested data to continue
+| homeMarketValue | howManyYears |
+| 170000000 | 11 | [Herika complete form [Herika enters '170000000' into Enter home market value, Herika clicks on Choose percentage, Herika clicks on Select percentage value, Herika enters '11' into Write how many years, Herika clicks on Click on the date of birth field]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@6a50af0e
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Verify the result of the simulation of a home loan:Given user enters the bancolombia's page [Herika start [Herika opens the Enter page, Herika clicks on Click on the button to go to the main page]], And user selects options 'Productos y Servicios - Leasing - Simula - Segun valor vivienda' [Herika selecting options [Herika clicks on Click on the products and services option, Herika clicks on Click on the leasing option, Herika clicks on Select the residential leasing option, Herika clicks on Select the simulate option, Herika clicks on Click on the option according to the value of the house]], When user enters the requested data to continue
+| homeMarketValue | howManyYears |
+| 170000000 | 11 | [Herika complete form [Herika enters '170000000' into Enter home market value, Herika clicks on Choose percentage, Herika clicks on Select percentage value, Herika enters '11' into Write how many years, Herika clicks on Click on the date of birth field, Herika clicks on Select year]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@3cc10a72
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Verify the result of the simulation of a home loan:Given user enters the bancolombia's page [Herika start [Herika opens the Enter page, Herika clicks on Click on the button to go to the main page]], And user selects options 'Productos y Servicios - Leasing - Simula - Segun valor vivienda' [Herika selecting options [Herika clicks on Click on the products and services option, Herika clicks on Click on the leasing option, Herika clicks on Select the residential leasing option, Herika clicks on Select the simulate option, Herika clicks on Click on the option according to the value of the house]], When user enters the requested data to continue
+| homeMarketValue | howManyYears |
+| 170000000 | 11 | [Herika complete form [Herika enters '170000000' into Enter home market value, Herika clicks on Choose percentage, Herika clicks on Select percentage value, Herika enters '11' into Write how many years, Herika clicks on Click on the date of birth field, Herika clicks on Select year, Herika clicks on Select month]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@74a65966
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Verify the result of the simulation of a home loan:Given user enters the bancolombia's page [Herika start [Herika opens the Enter page, Herika clicks on Click on the button to go to the main page]], And user selects options 'Productos y Servicios - Leasing - Simula - Segun valor vivienda' [Herika selecting options [Herika clicks on Click on the products and services option, Herika clicks on Click on the leasing option, Herika clicks on Select the residential leasing option, Herika clicks on Select the simulate option, Herika clicks on Click on the option according to the value of the house]], When user enters the requested data to continue
+| homeMarketValue | howManyYears |
+| 170000000 | 11 | [Herika complete form [Herika enters '170000000' into Enter home market value, Herika clicks on Choose percentage, Herika clicks on Select percentage value, Herika enters '11' into Write how many years, Herika clicks on Click on the date of birth field, Herika clicks on Select year, Herika clicks on Select month, Herika clicks on Select day]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@2b94f42b
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Verify the result of the simulation of a home loan:Given user enters the bancolombia's page [Herika start [Herika opens the Enter page, Herika clicks on Click on the button to go to the main page]], And user selects options 'Productos y Servicios - Leasing - Simula - Segun valor vivienda' [Herika selecting options [Herika clicks on Click on the products and services option, Herika clicks on Click on the leasing option, Herika clicks on Select the residential leasing option, Herika clicks on Select the simulate option, Herika clicks on Click on the option according to the value of the house]], When user enters the requested data to continue
+| homeMarketValue | howManyYears |
+| 170000000 | 11 | [Herika complete form [Herika enters '170000000' into Enter home market value, Herika clicks on Choose percentage, Herika clicks on Select percentage value, Herika enters '11' into Write how many years, Herika clicks on Click on the date of birth field, Herika clicks on Select year, Herika clicks on Select month, Herika clicks on Select day, Herika clicks on Click on the simulate button]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Verify the result of the simulation of a home loan:Given user enters the bancolombia's page [Herika start [Herika opens the Enter page, Herika clicks on Click on the button to go to the main page]], And user selects options 'Productos y Servicios - Leasing - Simula - Segun valor vivienda' [Herika selecting options [Herika clicks on Click on the products and services option, Herika clicks on Click on the leasing option, Herika clicks on Select the residential leasing option, Herika clicks on Select the simulate option, Herika clicks on Click on the option according to the value of the house]], When user enters the requested data to continue
+| homeMarketValue | howManyYears |
+| 170000000 | 11 | [Herika complete form [Herika enters '170000000' into Enter home market value, Herika clicks on Choose percentage, Herika clicks on Select percentage value, Herika enters '11' into Write how many years, Herika clicks on Click on the date of birth field, Herika clicks on Select year, Herika clicks on Select month, Herika clicks on Select day, Herika clicks on Click on the simulate button]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Verify the result of the simulation of a home loan:Given user enters the bancolombia's page [Herika start [Herika opens the Enter page, Herika clicks on Click on the button to go to the main page]], And user selects options 'Productos y Servicios - Leasing - Simula - Segun valor vivienda' [Herika selecting options [Herika clicks on Click on the products and services option, Herika clicks on Click on the leasing option, Herika clicks on Select the residential leasing option, Herika clicks on Select the simulate option, Herika clicks on Click on the option according to the value of the house]], When user enters the requested data to continue
+| homeMarketValue | howManyYears |
+| 170000000 | 11 | [Herika complete form [Herika enters '170000000' into Enter home market value, Herika clicks on Choose percentage, Herika clicks on Select percentage value, Herika enters '11' into Write how many years, Herika clicks on Click on the date of birth field, Herika clicks on Select year, Herika clicks on Select month, Herika clicks on Select day, Herika clicks on Click on the simulate button]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@21df8f68
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@66a7013e
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@7fa18571
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Verify the result of the simulation of a home loan:Given user enters the bancolombia's page [Herika start [Herika opens the Enter page, Herika clicks on Click on the button to go to the main page]], And user selects options 'Productos y Servicios - Leasing - Simula - Segun valor vivienda' [Herika selecting options [Herika clicks on Click on the products and services option, Herika clicks on Click on the leasing option, Herika clicks on Select the residential leasing option, Herika clicks on Select the simulate option, Herika clicks on Click on the option according to the value of the house]], When user enters the requested data to continue
+| homeMarketValue | howManyYears |
+| 170000000 | 11 | [Herika complete form [Herika enters '170000000' into Enter home market value, Herika clicks on Choose percentage, Herika clicks on Select percentage value, Herika enters '11' into Write how many years, Herika clicks on Click on the date of birth field, Herika clicks on Select year, Herika clicks on Select month, Herika clicks on Select day, Herika clicks on Click on the simulate button]], And user selects the option 'leasing Habicacional' [Herika last step [Herika clicks on Click on the simulate button]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@43cc5f79
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Verify the result of the simulation of a home loan:Given user enters the bancolombia's page [Herika start [Herika opens the Enter page, Herika clicks on Click on the button to go to the main page]], And user selects options 'Productos y Servicios - Leasing - Simula - Segun valor vivienda' [Herika selecting options [Herika clicks on Click on the products and services option, Herika clicks on Click on the leasing option, Herika clicks on Select the residential leasing option, Herika clicks on Select the simulate option, Herika clicks on Click on the option according to the value of the house]], When user enters the requested data to continue
+| homeMarketValue | howManyYears |
+| 170000000 | 11 | [Herika complete form [Herika enters '170000000' into Enter home market value, Herika clicks on Choose percentage, Herika clicks on Select percentage value, Herika enters '11' into Write how many years, Herika clicks on Click on the date of birth field, Herika clicks on Select year, Herika clicks on Select month, Herika clicks on Select day, Herika clicks on Click on the simulate button]], And user selects the option 'leasing Habicacional' [Herika last step [Herika clicks on Click on the simulate button, Herika clicks on Click on rates and fees]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Verify the result of the simulation of a home loan:Given user enters the bancolombia's page [Herika start [Herika opens the Enter page, Herika clicks on Click on the button to go to the main page]], And user selects options 'Productos y Servicios - Leasing - Simula - Segun valor vivienda' [Herika selecting options [Herika clicks on Click on the products and services option, Herika clicks on Click on the leasing option, Herika clicks on Select the residential leasing option, Herika clicks on Select the simulate option, Herika clicks on Click on the option according to the value of the house]], When user enters the requested data to continue
+| homeMarketValue | howManyYears |
+| 170000000 | 11 | [Herika complete form [Herika enters '170000000' into Enter home market value, Herika clicks on Choose percentage, Herika clicks on Select percentage value, Herika enters '11' into Write how many years, Herika clicks on Click on the date of birth field, Herika clicks on Select year, Herika clicks on Select month, Herika clicks on Select day, Herika clicks on Click on the simulate button]], And user selects the option 'leasing Habicacional' [Herika last step [Herika clicks on Click on the simulate button, Herika clicks on Click on rates and fees]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Verify the result of the simulation of a home loan:Given user enters the bancolombia's page [Herika start [Herika opens the Enter page, Herika clicks on Click on the button to go to the main page]], And user selects options 'Productos y Servicios - Leasing - Simula - Segun valor vivienda' [Herika selecting options [Herika clicks on Click on the products and services option, Herika clicks on Click on the leasing option, Herika clicks on Select the residential leasing option, Herika clicks on Select the simulate option, Herika clicks on Click on the option according to the value of the house]], When user enters the requested data to continue
+| homeMarketValue | howManyYears |
+| 170000000 | 11 | [Herika complete form [Herika enters '170000000' into Enter home market value, Herika clicks on Choose percentage, Herika clicks on Select percentage value, Herika enters '11' into Write how many years, Herika clicks on Click on the date of birth field, Herika clicks on Select year, Herika clicks on Select month, Herika clicks on Select day, Herika clicks on Click on the simulate button]], And user selects the option 'leasing Habicacional' [Herika last step [Herika clicks on Click on the simulate button, Herika clicks on Click on rates and fees]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@75a89579
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@2052a32f
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Verify the result of the simulation of a home loan:Given user enters the bancolombia's page [Herika start [Herika opens the Enter page, Herika clicks on Click on the button to go to the main page]], And user selects options 'Productos y Servicios - Leasing - Simula - Segun valor vivienda' [Herika selecting options [Herika clicks on Click on the products and services option, Herika clicks on Click on the leasing option, Herika clicks on Select the residential leasing option, Herika clicks on Select the simulate option, Herika clicks on Click on the option according to the value of the house]], When user enters the requested data to continue
+| homeMarketValue | howManyYears |
+| 170000000 | 11 | [Herika complete form [Herika enters '170000000' into Enter home market value, Herika clicks on Choose percentage, Herika clicks on Select percentage value, Herika enters '11' into Write how many years, Herika clicks on Click on the date of birth field, Herika clicks on Select year, Herika clicks on Select month, Herika clicks on Select day, Herika clicks on Click on the simulate button]], And user selects the option 'leasing Habicacional' [Herika last step [Herika clicks on Click on the simulate button, Herika clicks on Click on rates and fees]], Then user verifies the result of the simulation was successful
+| strCheckSimulation |
+| Cuota fija en pesos | [Then verify result should be 'Cuota fija en pesos']
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Verify the result of the simulation of a home loan:Given user enters the bancolombia's page [Herika start [Herika opens the Enter page, Herika clicks on Click on the button to go to the main page]], And user selects options 'Productos y Servicios - Leasing - Simula - Segun valor vivienda' [Herika selecting options [Herika clicks on Click on the products and services option, Herika clicks on Click on the leasing option, Herika clicks on Select the residential leasing option, Herika clicks on Select the simulate option, Herika clicks on Click on the option according to the value of the house]], When user enters the requested data to continue
+| homeMarketValue | howManyYears |
+| 170000000 | 11 | [Herika complete form [Herika enters '170000000' into Enter home market value, Herika clicks on Choose percentage, Herika clicks on Select percentage value, Herika enters '11' into Write how many years, Herika clicks on Click on the date of birth field, Herika clicks on Select year, Herika clicks on Select month, Herika clicks on Select day, Herika clicks on Click on the simulate button]], And user selects the option 'leasing Habicacional' [Herika last step [Herika clicks on Click on the simulate button, Herika clicks on Click on rates and fees]], Then user verifies the result of the simulation was successful
+| strCheckSimulation |
+| Cuota fija en pesos | [Then verify result should be 'Cuota fija en pesos']
 [Test worker] WARN net.thucydides.core.steps.BaseStepListener - testFinished: Verify the result of the simulation of a home loan:Given user enters the bancolombia's page [Herika start [Herika opens the Enter page, Herika clicks on Click on the button to go to the main page]], And user selects options 'Productos y Servicios - Leasing - Simula - Segun valor vivienda' [Herika selecting options [Herika clicks on Click on the products and services option, Herika clicks on Click on the leasing option, Herika clicks on Select the residential leasing option, Herika clicks on Select the simulate option, Herika clicks on Click on the option according to the value of the house]], When user enters the requested data to continue
 | homeMarketValue | howManyYears |
-| 170000000 | 11 |, And user selects the option 'leasing Habicacional', Then user verifies the result of the simulation was successful
+| 170000000 | 11 | [Herika complete form [Herika enters '170000000' into Enter home market value, Herika clicks on Choose percentage, Herika clicks on Select percentage value, Herika enters '11' into Write how many years, Herika clicks on Click on the date of birth field, Herika clicks on Select year, Herika clicks on Select month, Herika clicks on Select day, Herika clicks on Click on the simulate button]], And user selects the option 'leasing Habicacional' [Herika last step [Herika clicks on Click on the simulate button, Herika clicks on Click on rates and fees]], Then user verifies the result of the simulation was successful
 | strCheckSimulation |
-| Cuota fija en pesos |
+| Cuota fija en pesos | [Then verify result should be 'Cuota fija en pesos']
 [Test worker] WARN net.thucydides.core.steps.BaseStepListener - TestOutcomes: [Verify the result of the simulation of a home loan:Given user enters the bancolombia's page [Herika start [Herika opens the Enter page, Herika clicks on Click on the button to go to the main page]], And user selects options 'Productos y Servicios - Leasing - Simula - Segun valor vivienda' [Herika selecting options [Herika clicks on Click on the products and services option, Herika clicks on Click on the leasing option, Herika clicks on Select the residential leasing option, Herika clicks on Select the simulate option, Herika clicks on Click on the option according to the value of the house]], When user enters the requested data to continue
 | homeMarketValue | howManyYears |
-| 170000000 | 11 |, And user selects the option 'leasing Habicacional', Then user verifies the result of the simulation was successful
+| 170000000 | 11 | [Herika complete form [Herika enters '170000000' into Enter home market value, Herika clicks on Choose percentage, Herika clicks on Select percentage value, Herika enters '11' into Write how many years, Herika clicks on Click on the date of birth field, Herika clicks on Select year, Herika clicks on Select month, Herika clicks on Select day, Herika clicks on Click on the simulate button]], And user selects the option 'leasing Habicacional' [Herika last step [Herika clicks on Click on the simulate button, Herika clicks on Click on rates and fees]], Then user verifies the result of the simulation was successful
 | strCheckSimulation |
-| Cuota fija en pesos |]
+| Cuota fija en pesos | [Then verify result should be 'Cuota fija en pesos']]
 [Test worker] WARN net.thucydides.core.steps.BaseStepListener - Final testOutcomes: [Verify the result of the simulation of a home loan:Given user enters the bancolombia's page [Herika start [Herika opens the Enter page, Herika clicks on Click on the button to go to the main page]], And user selects options 'Productos y Servicios - Leasing - Simula - Segun valor vivienda' [Herika selecting options [Herika clicks on Click on the products and services option, Herika clicks on Click on the leasing option, Herika clicks on Select the residential leasing option, Herika clicks on Select the simulate option, Herika clicks on Click on the option according to the value of the house]], When user enters the requested data to continue
 | homeMarketValue | howManyYears |
-| 170000000 | 11 |, And user selects the option 'leasing Habicacional', Then user verifies the result of the simulation was successful
+| 170000000 | 11 | [Herika complete form [Herika enters '170000000' into Enter home market value, Herika clicks on Choose percentage, Herika clicks on Select percentage value, Herika enters '11' into Write how many years, Herika clicks on Click on the date of birth field, Herika clicks on Select year, Herika clicks on Select month, Herika clicks on Select day, Herika clicks on Click on the simulate button]], And user selects the option 'leasing Habicacional' [Herika last step [Herika clicks on Click on the simulate button, Herika clicks on Click on rates and fees]], Then user verifies the result of the simulation was successful
 | strCheckSimulation |
-| Cuota fija en pesos |]
-[Test worker] ERROR net.thucydides.core.steps.ConsoleLoggingListener - ?[91m
-           __  _____ _____ ____ _____   _____ _    ___ _     _____ ____  
-  _       / / |_   _| ____/ ___|_   _| |  ___/ \  |_ _| |   | ____|  _ \ 
- (_)_____| |    | | |  _| \___ \ | |   | |_ / _ \  | || |   |  _| | | | |
-  _|_____| |    | | | |___ ___) || |   |  _/ ___ \ | || |___| |___| |_| |
- (_)     | |    |_| |_____|____/ |_|   |_|/_/   \_\___|_____|_____|____/ 
-          \_\                                                            
+| Cuota fija en pesos | [Then verify result should be 'Cuota fija en pesos']]
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - ?[92m
+        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
+  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
+ (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
+  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
+ (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
+        /_/                                                                
 
-TEST FAILED: Verify the result of the simulation of a home loan
---------------------------------------------------------------------------?[0m
-[Test worker] ERROR net.thucydides.core.steps.ConsoleLoggingListener - ?[91mTEST FAILED AT STEP Herika clicks on Click on the option according to the value of the house?[0m
-[Test worker] ERROR net.thucydides.core.steps.ConsoleLoggingListener - Expected enabled element was not enabled
+TEST PASSED: Verify the result of the simulation of a home loan
+----------------------------------------------------------------------------?[0m
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@5d88d731
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@66e8272f
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@237d71a2
+abr 10, 2022 11:29:29 PM org.openqa.selenium.remote.DesiredCapabilities chrome
+INFORMACIÓN: Using `new ChromeOptions()` is preferred to `DesiredCapabilities.chrome()`
+[Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Instantiating driver
+[Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ProvideNewDriver - Driver capabilities: Capabilities {acceptInsecureCerts: false, browserName: chrome, chrome.switches: --start-maximized, goog:chromeOptions: {args: [--start-maximized], extensions: []}, loggingPrefs: org.openqa.selenium.logging..., platform: ANY, version: }
+Starting ChromeDriver 100.0.4896.60 (6a5d10861ce8de5fce22564658033b43cb7de047-refs/branch-heads/4896@{#875}) on port 43041
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+abr 10, 2022 11:29:31 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFORMACIÓN: Detected dialect: W3C
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Verify the result of the simulation of a housing loan with erroneous data:Given user enters the Bancolombia page [Herika start [Herika opens the Enter page]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@3bd6af91
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Verify the result of the simulation of a housing loan with erroneous data:Given user enters the Bancolombia page [Herika start [Herika opens the Enter page, Herika clicks on Click on the button to go to the main page]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Verify the result of the simulation of a housing loan with erroneous data:Given user enters the Bancolombia page [Herika start [Herika opens the Enter page, Herika clicks on Click on the button to go to the main page]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Verify the result of the simulation of a housing loan with erroneous data:Given user enters the Bancolombia page [Herika start [Herika opens the Enter page, Herika clicks on Click on the button to go to the main page]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@40a90e55
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@5eff501b
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@3bc4ec05
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Verify the result of the simulation of a housing loan with erroneous data:Given user enters the Bancolombia page [Herika start [Herika opens the Enter page, Herika clicks on Click on the button to go to the main page]], And user selects multiple options 'Productos y Servicios - Leasing - Simula - Segun valor vivienda' [Herika selecting options [Herika clicks on Click on the products and services option]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@7bee593f
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Verify the result of the simulation of a housing loan with erroneous data:Given user enters the Bancolombia page [Herika start [Herika opens the Enter page, Herika clicks on Click on the button to go to the main page]], And user selects multiple options 'Productos y Servicios - Leasing - Simula - Segun valor vivienda' [Herika selecting options [Herika clicks on Click on the products and services option, Herika clicks on Click on the leasing option]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@588f5070
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Verify the result of the simulation of a housing loan with erroneous data:Given user enters the Bancolombia page [Herika start [Herika opens the Enter page, Herika clicks on Click on the button to go to the main page]], And user selects multiple options 'Productos y Servicios - Leasing - Simula - Segun valor vivienda' [Herika selecting options [Herika clicks on Click on the products and services option, Herika clicks on Click on the leasing option, Herika clicks on Select the residential leasing option]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@7cb652d3
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Verify the result of the simulation of a housing loan with erroneous data:Given user enters the Bancolombia page [Herika start [Herika opens the Enter page, Herika clicks on Click on the button to go to the main page]], And user selects multiple options 'Productos y Servicios - Leasing - Simula - Segun valor vivienda' [Herika selecting options [Herika clicks on Click on the products and services option, Herika clicks on Click on the leasing option, Herika clicks on Select the residential leasing option, Herika clicks on Select the simulate option]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@52adebae
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Verify the result of the simulation of a housing loan with erroneous data:Given user enters the Bancolombia page [Herika start [Herika opens the Enter page, Herika clicks on Click on the button to go to the main page]], And user selects multiple options 'Productos y Servicios - Leasing - Simula - Segun valor vivienda' [Herika selecting options [Herika clicks on Click on the products and services option, Herika clicks on Click on the leasing option, Herika clicks on Select the residential leasing option, Herika clicks on Select the simulate option, Herika clicks on Click on the option according to the value of the house]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Verify the result of the simulation of a housing loan with erroneous data:Given user enters the Bancolombia page [Herika start [Herika opens the Enter page, Herika clicks on Click on the button to go to the main page]], And user selects multiple options 'Productos y Servicios - Leasing - Simula - Segun valor vivienda' [Herika selecting options [Herika clicks on Click on the products and services option, Herika clicks on Click on the leasing option, Herika clicks on Select the residential leasing option, Herika clicks on Select the simulate option, Herika clicks on Click on the option according to the value of the house]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Verify the result of the simulation of a housing loan with erroneous data:Given user enters the Bancolombia page [Herika start [Herika opens the Enter page, Herika clicks on Click on the button to go to the main page]], And user selects multiple options 'Productos y Servicios - Leasing - Simula - Segun valor vivienda' [Herika selecting options [Herika clicks on Click on the products and services option, Herika clicks on Click on the leasing option, Herika clicks on Select the residential leasing option, Herika clicks on Select the simulate option, Herika clicks on Click on the option according to the value of the house]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@5a5b1462
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@2f81f2a8
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@6be77be5
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Verify the result of the simulation of a housing loan with erroneous data:Given user enters the Bancolombia page [Herika start [Herika opens the Enter page, Herika clicks on Click on the button to go to the main page]], And user selects multiple options 'Productos y Servicios - Leasing - Simula - Segun valor vivienda' [Herika selecting options [Herika clicks on Click on the products and services option, Herika clicks on Click on the leasing option, Herika clicks on Select the residential leasing option, Herika clicks on Select the simulate option, Herika clicks on Click on the option according to the value of the house]], When user enters wrong data to continue
+| homeMarketValue | howManyYears |
+| 122000000 | 2 | [Herika invalid data [Herika enters '122000000' into Enter home market value]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@a8558a3
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Verify the result of the simulation of a housing loan with erroneous data:Given user enters the Bancolombia page [Herika start [Herika opens the Enter page, Herika clicks on Click on the button to go to the main page]], And user selects multiple options 'Productos y Servicios - Leasing - Simula - Segun valor vivienda' [Herika selecting options [Herika clicks on Click on the products and services option, Herika clicks on Click on the leasing option, Herika clicks on Select the residential leasing option, Herika clicks on Select the simulate option, Herika clicks on Click on the option according to the value of the house]], When user enters wrong data to continue
+| homeMarketValue | howManyYears |
+| 122000000 | 2 | [Herika invalid data [Herika enters '122000000' into Enter home market value, Herika clicks on Choose percentage]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@4bdb1cce
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Verify the result of the simulation of a housing loan with erroneous data:Given user enters the Bancolombia page [Herika start [Herika opens the Enter page, Herika clicks on Click on the button to go to the main page]], And user selects multiple options 'Productos y Servicios - Leasing - Simula - Segun valor vivienda' [Herika selecting options [Herika clicks on Click on the products and services option, Herika clicks on Click on the leasing option, Herika clicks on Select the residential leasing option, Herika clicks on Select the simulate option, Herika clicks on Click on the option according to the value of the house]], When user enters wrong data to continue
+| homeMarketValue | howManyYears |
+| 122000000 | 2 | [Herika invalid data [Herika enters '122000000' into Enter home market value, Herika clicks on Choose percentage, Herika clicks on Select percentage value]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@3f606f0
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Verify the result of the simulation of a housing loan with erroneous data:Given user enters the Bancolombia page [Herika start [Herika opens the Enter page, Herika clicks on Click on the button to go to the main page]], And user selects multiple options 'Productos y Servicios - Leasing - Simula - Segun valor vivienda' [Herika selecting options [Herika clicks on Click on the products and services option, Herika clicks on Click on the leasing option, Herika clicks on Select the residential leasing option, Herika clicks on Select the simulate option, Herika clicks on Click on the option according to the value of the house]], When user enters wrong data to continue
+| homeMarketValue | howManyYears |
+| 122000000 | 2 | [Herika invalid data [Herika enters '122000000' into Enter home market value, Herika clicks on Choose percentage, Herika clicks on Select percentage value, Herika enters '2' into Write how many years]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@1f431773
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Verify the result of the simulation of a housing loan with erroneous data:Given user enters the Bancolombia page [Herika start [Herika opens the Enter page, Herika clicks on Click on the button to go to the main page]], And user selects multiple options 'Productos y Servicios - Leasing - Simula - Segun valor vivienda' [Herika selecting options [Herika clicks on Click on the products and services option, Herika clicks on Click on the leasing option, Herika clicks on Select the residential leasing option, Herika clicks on Select the simulate option, Herika clicks on Click on the option according to the value of the house]], When user enters wrong data to continue
+| homeMarketValue | howManyYears |
+| 122000000 | 2 | [Herika invalid data [Herika enters '122000000' into Enter home market value, Herika clicks on Choose percentage, Herika clicks on Select percentage value, Herika enters '2' into Write how many years, Herika clicks on Click on the date of birth field]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@44e74070
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Verify the result of the simulation of a housing loan with erroneous data:Given user enters the Bancolombia page [Herika start [Herika opens the Enter page, Herika clicks on Click on the button to go to the main page]], And user selects multiple options 'Productos y Servicios - Leasing - Simula - Segun valor vivienda' [Herika selecting options [Herika clicks on Click on the products and services option, Herika clicks on Click on the leasing option, Herika clicks on Select the residential leasing option, Herika clicks on Select the simulate option, Herika clicks on Click on the option according to the value of the house]], When user enters wrong data to continue
+| homeMarketValue | howManyYears |
+| 122000000 | 2 | [Herika invalid data [Herika enters '122000000' into Enter home market value, Herika clicks on Choose percentage, Herika clicks on Select percentage value, Herika enters '2' into Write how many years, Herika clicks on Click on the date of birth field, Herika clicks on Select year]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@3d22d261
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Verify the result of the simulation of a housing loan with erroneous data:Given user enters the Bancolombia page [Herika start [Herika opens the Enter page, Herika clicks on Click on the button to go to the main page]], And user selects multiple options 'Productos y Servicios - Leasing - Simula - Segun valor vivienda' [Herika selecting options [Herika clicks on Click on the products and services option, Herika clicks on Click on the leasing option, Herika clicks on Select the residential leasing option, Herika clicks on Select the simulate option, Herika clicks on Click on the option according to the value of the house]], When user enters wrong data to continue
+| homeMarketValue | howManyYears |
+| 122000000 | 2 | [Herika invalid data [Herika enters '122000000' into Enter home market value, Herika clicks on Choose percentage, Herika clicks on Select percentage value, Herika enters '2' into Write how many years, Herika clicks on Click on the date of birth field, Herika clicks on Select year, Herika clicks on Select month]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@45ee1895
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Verify the result of the simulation of a housing loan with erroneous data:Given user enters the Bancolombia page [Herika start [Herika opens the Enter page, Herika clicks on Click on the button to go to the main page]], And user selects multiple options 'Productos y Servicios - Leasing - Simula - Segun valor vivienda' [Herika selecting options [Herika clicks on Click on the products and services option, Herika clicks on Click on the leasing option, Herika clicks on Select the residential leasing option, Herika clicks on Select the simulate option, Herika clicks on Click on the option according to the value of the house]], When user enters wrong data to continue
+| homeMarketValue | howManyYears |
+| 122000000 | 2 | [Herika invalid data [Herika enters '122000000' into Enter home market value, Herika clicks on Choose percentage, Herika clicks on Select percentage value, Herika enters '2' into Write how many years, Herika clicks on Click on the date of birth field, Herika clicks on Select year, Herika clicks on Select month, Herika clicks on Select day]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Verify the result of the simulation of a housing loan with erroneous data:Given user enters the Bancolombia page [Herika start [Herika opens the Enter page, Herika clicks on Click on the button to go to the main page]], And user selects multiple options 'Productos y Servicios - Leasing - Simula - Segun valor vivienda' [Herika selecting options [Herika clicks on Click on the products and services option, Herika clicks on Click on the leasing option, Herika clicks on Select the residential leasing option, Herika clicks on Select the simulate option, Herika clicks on Click on the option according to the value of the house]], When user enters wrong data to continue
+| homeMarketValue | howManyYears |
+| 122000000 | 2 | [Herika invalid data [Herika enters '122000000' into Enter home market value, Herika clicks on Choose percentage, Herika clicks on Select percentage value, Herika enters '2' into Write how many years, Herika clicks on Click on the date of birth field, Herika clicks on Select year, Herika clicks on Select month, Herika clicks on Select day]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Verify the result of the simulation of a housing loan with erroneous data:Given user enters the Bancolombia page [Herika start [Herika opens the Enter page, Herika clicks on Click on the button to go to the main page]], And user selects multiple options 'Productos y Servicios - Leasing - Simula - Segun valor vivienda' [Herika selecting options [Herika clicks on Click on the products and services option, Herika clicks on Click on the leasing option, Herika clicks on Select the residential leasing option, Herika clicks on Select the simulate option, Herika clicks on Click on the option according to the value of the house]], When user enters wrong data to continue
+| homeMarketValue | howManyYears |
+| 122000000 | 2 | [Herika invalid data [Herika enters '122000000' into Enter home market value, Herika clicks on Choose percentage, Herika clicks on Select percentage value, Herika enters '2' into Write how many years, Herika clicks on Click on the date of birth field, Herika clicks on Select year, Herika clicks on Select month, Herika clicks on Select day]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@7139a947
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@30d2b797
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Verify the result of the simulation of a housing loan with erroneous data:Given user enters the Bancolombia page [Herika start [Herika opens the Enter page, Herika clicks on Click on the button to go to the main page]], And user selects multiple options 'Productos y Servicios - Leasing - Simula - Segun valor vivienda' [Herika selecting options [Herika clicks on Click on the products and services option, Herika clicks on Click on the leasing option, Herika clicks on Select the residential leasing option, Herika clicks on Select the simulate option, Herika clicks on Click on the option according to the value of the house]], When user enters wrong data to continue
+| homeMarketValue | howManyYears |
+| 122000000 | 2 | [Herika invalid data [Herika enters '122000000' into Enter home market value, Herika clicks on Choose percentage, Herika clicks on Select percentage value, Herika enters '2' into Write how many years, Herika clicks on Click on the date of birth field, Herika clicks on Select year, Herika clicks on Select month, Herika clicks on Select day]], Then user verifies if with the erroneous data he can do the credit simulation
+| errorMessage |
+| El campo no cumple con el valor mínimo: 5 años | [Then incorrect data]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepFinished: current outcome:Verify the result of the simulation of a housing loan with erroneous data:Given user enters the Bancolombia page [Herika start [Herika opens the Enter page, Herika clicks on Click on the button to go to the main page]], And user selects multiple options 'Productos y Servicios - Leasing - Simula - Segun valor vivienda' [Herika selecting options [Herika clicks on Click on the products and services option, Herika clicks on Click on the leasing option, Herika clicks on Select the residential leasing option, Herika clicks on Select the simulate option, Herika clicks on Click on the option according to the value of the house]], When user enters wrong data to continue
+| homeMarketValue | howManyYears |
+| 122000000 | 2 | [Herika invalid data [Herika enters '122000000' into Enter home market value, Herika clicks on Choose percentage, Herika clicks on Select percentage value, Herika enters '2' into Write how many years, Herika clicks on Click on the date of birth field, Herika clicks on Select year, Herika clicks on Select month, Herika clicks on Select day]], Then user verifies if with the erroneous data he can do the credit simulation
+| errorMessage |
+| El campo no cumple con el valor mínimo: 5 años | [Then incorrect data]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - testFinished: Verify the result of the simulation of a housing loan with erroneous data:Given user enters the Bancolombia page [Herika start [Herika opens the Enter page, Herika clicks on Click on the button to go to the main page]], And user selects multiple options 'Productos y Servicios - Leasing - Simula - Segun valor vivienda' [Herika selecting options [Herika clicks on Click on the products and services option, Herika clicks on Click on the leasing option, Herika clicks on Select the residential leasing option, Herika clicks on Select the simulate option, Herika clicks on Click on the option according to the value of the house]], When user enters wrong data to continue
+| homeMarketValue | howManyYears |
+| 122000000 | 2 | [Herika invalid data [Herika enters '122000000' into Enter home market value, Herika clicks on Choose percentage, Herika clicks on Select percentage value, Herika enters '2' into Write how many years, Herika clicks on Click on the date of birth field, Herika clicks on Select year, Herika clicks on Select month, Herika clicks on Select day]], Then user verifies if with the erroneous data he can do the credit simulation
+| errorMessage |
+| El campo no cumple con el valor mínimo: 5 años | [Then incorrect data]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - TestOutcomes: [Verify the result of the simulation of a home loan:Given user enters the bancolombia's page [Herika start [Herika opens the Enter page, Herika clicks on Click on the button to go to the main page]], And user selects options 'Productos y Servicios - Leasing - Simula - Segun valor vivienda' [Herika selecting options [Herika clicks on Click on the products and services option, Herika clicks on Click on the leasing option, Herika clicks on Select the residential leasing option, Herika clicks on Select the simulate option, Herika clicks on Click on the option according to the value of the house]], When user enters the requested data to continue
+| homeMarketValue | howManyYears |
+| 170000000 | 11 | [Herika complete form [Herika enters '170000000' into Enter home market value, Herika clicks on Choose percentage, Herika clicks on Select percentage value, Herika enters '11' into Write how many years, Herika clicks on Click on the date of birth field, Herika clicks on Select year, Herika clicks on Select month, Herika clicks on Select day, Herika clicks on Click on the simulate button]], And user selects the option 'leasing Habicacional' [Herika last step [Herika clicks on Click on the simulate button, Herika clicks on Click on rates and fees]], Then user verifies the result of the simulation was successful
+| strCheckSimulation |
+| Cuota fija en pesos | [Then verify result should be 'Cuota fija en pesos'], Verify the result of the simulation of a housing loan with erroneous data:Given user enters the Bancolombia page [Herika start [Herika opens the Enter page, Herika clicks on Click on the button to go to the main page]], And user selects multiple options 'Productos y Servicios - Leasing - Simula - Segun valor vivienda' [Herika selecting options [Herika clicks on Click on the products and services option, Herika clicks on Click on the leasing option, Herika clicks on Select the residential leasing option, Herika clicks on Select the simulate option, Herika clicks on Click on the option according to the value of the house]], When user enters wrong data to continue
+| homeMarketValue | howManyYears |
+| 122000000 | 2 | [Herika invalid data [Herika enters '122000000' into Enter home market value, Herika clicks on Choose percentage, Herika clicks on Select percentage value, Herika enters '2' into Write how many years, Herika clicks on Click on the date of birth field, Herika clicks on Select year, Herika clicks on Select month, Herika clicks on Select day]], Then user verifies if with the erroneous data he can do the credit simulation
+| errorMessage |
+| El campo no cumple con el valor mínimo: 5 años | [Then incorrect data]]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - Final testOutcomes: [Verify the result of the simulation of a home loan:Given user enters the bancolombia's page [Herika start [Herika opens the Enter page, Herika clicks on Click on the button to go to the main page]], And user selects options 'Productos y Servicios - Leasing - Simula - Segun valor vivienda' [Herika selecting options [Herika clicks on Click on the products and services option, Herika clicks on Click on the leasing option, Herika clicks on Select the residential leasing option, Herika clicks on Select the simulate option, Herika clicks on Click on the option according to the value of the house]], When user enters the requested data to continue
+| homeMarketValue | howManyYears |
+| 170000000 | 11 | [Herika complete form [Herika enters '170000000' into Enter home market value, Herika clicks on Choose percentage, Herika clicks on Select percentage value, Herika enters '11' into Write how many years, Herika clicks on Click on the date of birth field, Herika clicks on Select year, Herika clicks on Select month, Herika clicks on Select day, Herika clicks on Click on the simulate button]], And user selects the option 'leasing Habicacional' [Herika last step [Herika clicks on Click on the simulate button, Herika clicks on Click on rates and fees]], Then user verifies the result of the simulation was successful
+| strCheckSimulation |
+| Cuota fija en pesos | [Then verify result should be 'Cuota fija en pesos'], Verify the result of the simulation of a housing loan with erroneous data:Given user enters the Bancolombia page [Herika start [Herika opens the Enter page, Herika clicks on Click on the button to go to the main page]], And user selects multiple options 'Productos y Servicios - Leasing - Simula - Segun valor vivienda' [Herika selecting options [Herika clicks on Click on the products and services option, Herika clicks on Click on the leasing option, Herika clicks on Select the residential leasing option, Herika clicks on Select the simulate option, Herika clicks on Click on the option according to the value of the house]], When user enters wrong data to continue
+| homeMarketValue | howManyYears |
+| 122000000 | 2 | [Herika invalid data [Herika enters '122000000' into Enter home market value, Herika clicks on Choose percentage, Herika clicks on Select percentage value, Herika enters '2' into Write how many years, Herika clicks on Click on the date of birth field, Herika clicks on Select year, Herika clicks on Select month, Herika clicks on Select day]], Then user verifies if with the erroneous data he can do the credit simulation
+| errorMessage |
+| El campo no cumple con el valor mínimo: 5 años | [Then incorrect data]]
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - ?[92m
+        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
+  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
+ (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
+  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
+ (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
+        /_/                                                                
+
+TEST PASSED: Verify the result of the simulation of a housing loan with erroneous data
+----------------------------------------------------------------------------?[0m
 </pre>
 </span>
 </div>
@@ -339,7 +358,7 @@ TEST FAILED: Verify the result of the simulation of a home loan
 <input id="line-wrapping-toggle" type="checkbox" autocomplete="off"/>
 </label>
 </div>Generated by 
-<a href="http://www.gradle.org">Gradle 7.1</a> at 10/04/2022 01:09:09 PM</p>
+<a href="http://www.gradle.org">Gradle 7.1</a> at 10/04/2022 11:29:56 PM</p>
 </div>
 </div>
 </body>
