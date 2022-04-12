@@ -8,7 +8,7 @@ import net.serenitybdd.screenplay.questions.Text;
 
 import java.util.List;
 
-public class VerifyResult implements Question {
+public class VerifyResult implements Question <Boolean>{
     SimulationResult FeeValueResult = new SimulationResult();
 
     private List<SimulateCreditData> simulateCreditData;
@@ -22,7 +22,21 @@ public class VerifyResult implements Question {
     }
 
     @Override
-    public Object answeredBy(Actor actor) {
-        return Text.of(SimulationResult.FIXED_FEE_TITLE).viewedBy(actor).asString();
+    public Boolean answeredBy(Actor actor) {
+
+        boolean Result;
+
+        String simulateCredit = Text.of(SimulationResult.FIXED_FEE_TITLE).viewedBy(actor).asString();
+
+        if (simulateCreditData.get(0).getStrCheckSimulation().equals(simulateCredit)){
+            Result = true;
+        }else {
+            Result = false;
+        }
+
+        return Result;
+
+    //public Object answeredBy(Actor actor) {
+      //  return Text.of(SimulationResult.FIXED_FEE_TITLE).viewedBy(actor).asString();
     }
 }

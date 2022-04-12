@@ -13,7 +13,6 @@ import cucumber.api.java.en.When;
 import net.serenitybdd.screenplay.GivenWhenThen;
 import net.serenitybdd.screenplay.actors.OnStage;
 import net.serenitybdd.screenplay.actors.OnlineCast;
-import org.hamcrest.Matchers;
 
 import java.util.List;
 
@@ -48,6 +47,7 @@ public class SimulateCreditStepDefinitions {
 
     @Then("^user verifies the result of the simulation was successful$")
     public void userVerifiesTheResultOfTheSimulationWasSuccessful(List<SimulateCreditData> simulateCreditData) {
-        OnStage.theActorInTheSpotlight().should(GivenWhenThen.seeThat(VerifyResult.creditSimulation(simulateCreditData), Matchers.equalTo("Cuota fija en pesos")));
+        OnStage.theActorInTheSpotlight().should(GivenWhenThen.seeThat(VerifyResult.creditSimulation(simulateCreditData)));
+    //Matchers.equalTo("Cuota fija en pesos")));
     }
 }

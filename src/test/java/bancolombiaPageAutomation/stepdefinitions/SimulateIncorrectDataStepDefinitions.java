@@ -42,6 +42,5 @@ public class SimulateIncorrectDataStepDefinitions {
     @Then("^user verifies if with the erroneous data he can do the credit simulation$")
     public void user_verifies_if_with_the_erroneous_data_he_can_do_the_credit_simulation(List<SimulateCreditData> simulateCreditData) {
         OnStage.theActorInTheSpotlight().should(GivenWhenThen.seeThat(IncorrectData.toEnd(simulateCreditData)));
-
     }
 }
