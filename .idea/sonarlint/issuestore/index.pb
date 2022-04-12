@@ -69,14 +69,10 @@ k
 ;target/site/serenity/pagesource8837618901553115154.html.txt,d\6\d6bc64201230912d46f5bd5cef777df6713dfd1c
 Š
 Ztarget/site/serenity/b23b896220214f70d0252fae15cb714adb6ddc52ebd863e227b7b5f60c70f000.json,5\0\503d883f9984cf93b484f85323d6417f76a7ac76
-^
-.target/site/serenity/browser-chrome.properties,8\0\80586e77ca81c6ef8cfcf4ad04703b2a776e90a4
 k
 ;target/site/serenity/pagesource8181550981376982697.html.txt,9\f\9f5c67cb1bb773fea3d496d05f4c1de03911b90e
 k
 ;target/site/serenity/pagesource3932863028281019555.html.txt,7\a\7a381382ca43d5bea77adab79386648488cccf26
-Š
-Ztarget/site/serenity/3c3fbfa598a4f60528af1f393e0aa0a8696cebcafca4f7246d4b64ba2fe33e2f.json,c\0\c04e47724cff9e6c6191209a5000553bac0d9099
 k
 ;target/site/serenity/pagesource9183070017569458466.html.txt,9\a\9a8a349c9a4219309d0205bc9f7cd539765a0a00
 k
@@ -167,8 +163,6 @@ k
 ;target/site/serenity/pagesource4176175839294329517.html.txt,e\8\e8d82fe9a09499b963e9d7932e17e5ab65e9bc7a
 k
 ;target/site/serenity/pagesource2433263109204322670.html.txt,7\6\76af18ae32b895ed3d47901c505c5408b5b500fc
-S
-#.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
 k
 ;target/site/serenity/pagesource7411337704206513220.html.txt,8\7\87ac4d01e47d998ed725abff834bd7b7290a64be
 k
@@ -205,10 +199,6 @@ k
 Ztarget/site/serenity/01f5288b80adbd3af52a8ed68a4a616d3164f750229f80da1ef344382d948835.html,7\b\7b282e16ad61b34faffda63f53ecf6dad9a60adc
 Š
 Ztarget/site/serenity/2b5d0eaefe794af807cc4c22127837d6d8fa7defb6d1ce3cb046391ed6fb8cf7.html,b\5\b54a15bf7410aeb5d51c10587ed8430dd58deda1
-Š
-Ztarget/site/serenity/3c3fbfa598a4f60528af1f393e0aa0a8696cebcafca4f7246d4b64ba2fe33e2f.html,b\7\b779ae8da885998569049077dc3eff52cf6b3485
-–
-ftarget/site/serenity/3c3fbfa598a4f60528af1f393e0aa0a8696cebcafca4f7246d4b64ba2fe33e2f_screenshots.html,0\f\0f38b7da7b7551d37ad92be91bdf873707c7fb4f
 Š
 Ztarget/site/serenity/4a3bce49d9da7f396c5f3e9e00d0bf5ef243e406859ff2f4c5f3181ad7d4031d.html,7\0\700f5a56ea716ed24a183d6d3568dafca0dea601
 Š
@@ -270,8 +260,6 @@ O
 s
 Csrc/main/java/bancolombiaPageAutomation/tasks/SelectingOptions.java,b\1\b1eacda62b3015f876ec4ec80a1fe8dfaf08476b
 ˜
-htarget/site/serenity/SERENITY-JUNIT-3c3fbfa598a4f60528af1f393e0aa0a8696cebcafca4f7246d4b64ba2fe33e2f.xml,e\a\eaac646215b46c3ae12719d2beccd3cb8f25bc7e
-˜
 htarget/site/serenity/SERENITY-JUNIT-b23b896220214f70d0252fae15cb714adb6ddc52ebd863e227b7b5f60c70f000.xml,d\a\da4af8bca8838fc9c1cee0c0658b2fbd166dfcf5
 u
 Esrc/main/java/bancolombiaPageAutomation/model/SimulateCreditData.java,5\5\55f24612a133ce5627317406b0bec6df3dd374d0
@@ -287,5 +275,3 @@ t
 Dsrc/main/java/bancolombiaPageAutomation/userinterface/EnterPage.java,5\0\50a59d1d45e1c890e61884b43b240fe7c7771a98
 z
 Jsrc/main/java/bancolombiaPageAutomation/userinterface/MapCompleteForm.java,1\9\193704e432b0615ac7f218cc0088000d53493784
-k
-;src/main/java/bancolombiaPageAutomation/tasks/LastStep.java,1\6\160f41d30a89d69970ee3901f61faa1cc53dfc3b
